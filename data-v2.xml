@@ -2,9 +2,8 @@
   <companies>
     <company name="Hewlett Packard Enterprise/HPE">
       <companySource ref="bds-what-to-boycott" />
-      <companySource ref="instagram-bazzibatul" />
       <companyTag ref="PriorityBoycott" />
-      <companyTag ref="IsraeliCollaborator" />
+      <companyTag ref="SupportsIsrael" />
       <brand name="HP" />
       <brand name="OMEN" />
       <brand name="HyperX" />
@@ -15,9 +14,8 @@
     </company>
     <company name="Siemens AG">
       <companySource ref="bds-what-to-boycott" />
-      <companySource ref="instagram-bazzibatul" />
       <companyTag ref="PriorityBoycott" />
-      <companyTag ref="IsraeliCollaborator" />
+      <companyTag ref="SupportsIsrael" />
       <brand name="Mentor Graphics" />
       <brand name="Siemens Corporation" />
       <brand name="Siemens Energy" />
@@ -39,7 +37,7 @@
     <company name="AXA group">
       <companySource ref="bds-what-to-boycott" />
       <companyTag ref="PriorityBoycott" />
-      <companyTag ref="IsraeliCollaborator" />
+      <companyTag ref="SupportsIsrael" />
       <brand name="Brooklyn" />
       <brand name="Catlin Australia Pty Ltd" />
       <brand name="Greenwich Insurance Company" />
@@ -55,7 +53,7 @@
     <company name="Groupe Artémis S.A.">
       <companySource ref="bds-what-to-boycott" />
       <companyTag ref="PriorityBoycott" />
-      <companyTag ref="IsraeliCollaborator" />
+      <companyTag ref="SupportsIsrael" />
       <brand name="Kering" />
       <brand name="Puma" />
       <brand name="Creative Artists Agency" />
@@ -96,6 +94,7 @@
       <brand name="Ahava Cosmetics" />
     </company>
     <company name="Walt Disney Company">
+      <companySource ref="ihrc-list" />
       <companySource ref="disney-donate" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
@@ -118,12 +117,14 @@
       <brand name="Vice Media" />
     </company>
     <company name="McDonald's">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
+      <companySource ref="businessinsider-mcdonalds" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Starbucks">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
+      <companySource ref="abcnews-starbucks" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Evolution Fresh" />
@@ -134,10 +135,10 @@
       <brand name="Torrefazione Italia Coffee" />
     </company>
     <company name="Pepsico">
+      <companySource ref="ihrc-list" />
       <companySource ref="bds-what-to-boycott" />
-      <companySource ref="instagram-bazzibatul" />
       <companyTag ref="PriorityBoycott" />
-      <companyTag ref="IsraeliCollaborator" />
+      <companyTag ref="SupportsIsrael" />
       <companyTag ref="IsraeliFacilities" />
       <brand name="Amp Energy" />
       <brand name="Aquafina" />
@@ -207,10 +208,114 @@
       <brand name="Tropicana" />
       <brand name="Yachak" />
     </company>
-
-    <company name="Coca-Cola Company">
-      <companySource ref="instagram-bazzibatul" />
+    <company name="Amazon">
+      <companySource ref="ethicalconsumer-amazon" />
+      <companySource ref="businessinsider-amazon" />
       <companyTag ref="SupportsIsrael" />
+      <companyTag ref="LaborPractices" />
+      <brand name="AWS/Amazon Web Services" />
+      <brand name="Whole Foods Market" />
+      <brand name="Zappos" />
+      <brand name="Kiva Systems" />
+      <brand name="PillPack" />
+      <brand name="Twitch Interactive" />
+      <brand name="MGM Holdings Inc." />
+      <brand name="Ring" />
+      <brand name="206 Collective" />
+      <brand name="28 Palms" />
+      <brand name="7Goals" />
+      <brand name="A For Awesome" />
+      <brand name="Basics" />
+      <brand name="Elements vitamins and baby products" />
+      <brand name="Essentials" />
+      <brand name="Arabella" />
+      <brand name="Basic Care" />
+      <brand name="Beauty Bar" />
+      <brand name="Buttoned Down" />
+      <brand name="Cable Stitch" />
+      <brand name="Camp Moonlight" />
+      <brand name="Clifton Heritage" />
+      <brand name="Coastal Blue" />
+      <brand name="Comfort Denim" />
+      <brand name="Core 10" />
+      <brand name="Crafted Collar" />
+      <brand name="Daily Rituals" />
+      <brand name="Denim Bloom" />
+      <brand name="Ella Moon" />
+      <brand name="Emma Riley" />
+      <brand name="Essentialist" />
+      <brand name="Franklin &amp; Freeman" />
+      <brand name="Good Brief" />
+      <brand name="Goodsport" />
+      <brand name="Goodthreads" />
+      <brand name="HALE" />
+      <brand name="Happy Belly" />
+      <brand name="Haven Outerwear" />
+      <brand name="Hayden Rose" />
+      <brand name="Indigo Society" />
+      <brand name="Isle Bay Linens" />
+      <brand name="James &amp; Erin" />
+      <brand name="Kid Nation" />
+      <brand name="Kold Feet" />
+      <brand name="Lark &amp; Ro" />
+      <brand name="Leather Artchitect" />
+      <brand name="Lily Parker" />
+      <brand name="Madeline Kelly" />
+      <brand name="Madison Denim" />
+      <brand name="Mae" />
+      <brand name="Mama Bear" />
+      <brand name="Mariella Bella" />
+      <brand name="Mint Lilac" />
+      <brand name="Moon &amp; Back" />
+      <brand name="Ocean Blues" />
+      <brand name="Painted Heart" />
+      <brand name="Paris Sunday" />
+      <brand name="Peak Velocity" />
+      <brand name="North Eleven" />
+      <brand name="Nupro" />
+      <brand name="Pike Street" />
+      <brand name="Pinzon" />
+      <brand name="Plumberry" />
+      <brand name="Presto" />
+      <brand name="Quality Durables Co" />
+      <brand name="Rebel Canyon" />
+      <brand name="Rivet" />
+      <brand name="Rugged Mile Denim" />
+      <brand name="Savoir Faire" />
+      <brand name="Scout + Ro" />
+      <brand name="Signature Society" />
+      <brand name="Smitten" />
+      <brand name="Social Graces" />
+      <brand name="Something For Everyone" />
+      <brand name="Spotted Zebra" />
+      <brand name="Stocking Fox" />
+      <brand name="Stone &amp; Beam" />
+      <brand name="Suite Alice" />
+      <brand name="Cambridge Collection" />
+      <brand name="Fix" />
+      <brand name="Lovely Tote Co" />
+      <brand name="Luna Coalition" />
+      <brand name="Plus Project" />
+      <brand name="Slumber Project" />
+      <brand name="Trailside Supply Co" />
+      <brand name="True Angel" />
+      <brand name="Ugly Fair Isle" />
+      <brand name="Velvet Rope" />
+      <brand name="Single Cow Burger" />
+      <brand name="Small Parts" />
+      <brand name="Solimo" />
+      <brand name="Strathwood" />
+      <brand name="Wag Dog Food" />
+      <brand name="Wickedly Prime" />
+      <brand name="Wild Meadow" />
+      <brand name="Wood Paper Company" />
+    </company>
+    <company name="Coca-Cola Company">
+      <companySource ref="ihrc-list" />
+      <companySource ref="cocacola-israel" />
+      <companySource ref="mayniaga-drpepper" />
+      <companyTag ref="SupportsIsrael" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Ades" />
       <brand name="Appletiser" />
       <brand name="Aquarius" />
@@ -248,8 +353,8 @@
       <brand name="vitaminwater" />
     </company>
     <company name="Nike">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="nike-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Air Force 1" />
       <brand name="Air Jordan" />
       <brand name="Air Max" />
@@ -265,15 +370,15 @@
       <brand name="Nike+" />
     </company>
     <company name="Puma Group">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="bds-puma" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Cobra Golf" />
       <brand name="Puma" />
       <brand name="stichd" />
     </company>
     <company name="Revlon Consumer Products Corporation">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="revlon-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Almay" />
       <brand name="American Crew" />
       <brand name="Britney Spears Fragrances" />
@@ -289,87 +394,107 @@
       <brand name="SinfulColors" />
     </company>
     <company name="L'Oréal Group">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="greenleft-loreal" />
+      <companySource ref="loreal-israel" />
+      <companySource ref="blushing-giraffe" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Biotherm" />
       <brand name="Clarisonic" />
+      <brand name="Cacharel" />
       <brand name="Diesel" />
       <brand name="Essie" />
       <brand name="Garnier" />
+      <brand name="Guy Laroche" />
       <brand name="Giorgio Armani Beauty" />
+      <brand name="Helena Rubenstein" />
       <brand name="IT Cosmetics" />
       <brand name="Kérastase" />
       <brand name="Kiehl's" />
+      <brand name="Inneove" />
+      <brand name="Sanoflore" />
       <brand name="L'Oréal Paris" />
+      <brand name="L'Oréal Professionnel" />
       <brand name="La Roche-Posay" />
       <brand name="Lancôme" />
       <brand name="Maison Martin Margiela" />
+      <brand name="Mizani" />
       <brand name="Maybelline New York" />
       <brand name="NYX Professional Makeup" />
       <brand name="Prada Beauty" />
+      <brand name="Paloma Picasso" />
+      <brand name="Pureology" />
       <brand name="Ralph Lauren" />
+      <brand name="Rogers and Gallet" />
       <brand name="Redken" />
+      <brand name="Matrix" />
       <brand name="Shu Uemura" />
+      <brand name="Soft Sheen Carson" />
+      <brand name="Skinceuticals" />
       <brand name="Urban Decay" />
       <brand name="Vichy" />
+      <brand name="Yue Sai" />
       <brand name="Viktor&amp;Rolf" />
       <brand name="Yves Saint Laurent Beauté" />
     </company>
     <company name="Victoria's Secret &amp; Co.">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="wwd-victoriassecret" />
       <companyTag ref="SupportsIsrael" />
       <brand name="PINK" />
       <brand name="Victoria's Secret Beauty" />
       <brand name="Victoria's Secret Lingerie" />
     </company>
     <company name="Estée Lauder Companies">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
       <brand name="AERIN Beauty" />
+      <brand name="American Beauty" />
       <brand name="Aramis" />
       <brand name="Aveda" />
+      <brand name="Becca" />
       <brand name="Bobbi Brown" />
       <brand name="Bumble and bumble" />
+      <brand name="Coach" />
       <brand name="Clinique" />
+      <brand name="Donna Caran" />
       <brand name="Darphin Paris" />
       <brand name="Dr.Jart+" />
       <brand name="Estée Lauder" />
       <brand name="Frédéric Malle/Editions de Parfums" />
       <brand name="GLAMGLOW" />
+      <brand name="GoodSkin Labs" />
+      <brand name="Grassroots Research Labs" />
       <brand name="Jo Malone London" />
       <brand name="Kilian Paris" />
+      <brand name="Kiton" />
       <brand name="La Mer" />
       <brand name="Lab Series" />
       <brand name="Le Labo" />
       <brand name="MAC Cosmetics" />
       <brand name="Niod" />
+      <brand name="Ojon" />
+      <brand name="Osiao" />
       <brand name="Origins" />
       <brand name="Smashbox" />
       <brand name="The Ordinary" />
       <brand name="Tom Ford Beauty" />
       <brand name="Too Faced Cosmetics" />
-    </company>
-    <company name="Natura &amp; Co">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
-      <brand name="Natura" />
-      <brand name="Avon" />
-      <brand name="The Body Shop" />
+      <brand name="Tory Burch Beauty" />
     </company>
     <company name="Chanel">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companySource ref="pbs-chanel" />
       <companyTag ref="SupportsIsrael" />
+      <companyTag ref="IsraeliFacilities" />
       <companyTag ref="NaziMoney" />
     </company>
     <company name="AEO, Inc.">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="adage-billboard" />
       <companyTag ref="SupportsIsrael" />
       <brand name="American Eagle" />
       <brand name="Aerie" />
     </company>
     <company name="Tommy Hilfiger B.V.">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="hilfiger-twitter" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Hilfiger Collection" />
       <brand name="Tommy Hilfiger Tailored" />
@@ -379,19 +504,20 @@
       <brand name="Tommy Sport" />
     </company>
     <company name="Good American">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="bnn-kardashian" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Skims">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="skims-instagram" />
+      <companySource ref="bnn-kardashian" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Kylie Cosmetics">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="bnn-kardashian" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Procter &amp; Gamble">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="sunnahonline-pg" />
       <companySource ref="aclu-labor-report" />
       <companyTag ref="SupportsIsrael" />
       <companyTag ref="PrisonLabor" />
@@ -408,16 +534,28 @@
       <brand name="Charlie-Banana" />
       <brand name="Charmin" />
       <brand name="Cheer" />
+      <brand name="Comet" />
       <brand name="Clearblue" />
+      <brand name="Clairol Professional" />
+      <brand name="Covergirl" />
       <brand name="Crest" />
       <brand name="Dawn" />
+      <brand name="Dash" />
+      <brand name="Duracell" />
+      <brand name="Daz" />
       <brand name="Downy" />
+      <brand name="Dodot" />
+      <brand name="Dolce and Gabbana" />
       <brand name="Dreft" />
       <brand name="Era" />
+      <brand name="Fab" />
+      <brand name="Fairy" />
       <brand name="Febreze" />
       <brand name="Feminine Care Tampons" />
+      <brand name="Fusion" />
       <brand name="Fixodent" />
       <brand name="Gain" />
+      <brand name="Gala" />
       <brand name="Gillette" />
       <brand name="Head &amp; Shoulders" />
       <brand name="Herbal Essences" />
@@ -426,12 +564,17 @@
       <brand name="joy+glee" />
       <brand name="Just Pads and Tampons" />
       <brand name="Luvs" />
+      <brand name="Max Factor" />
       <brand name="Meta Mucil" />
       <brand name="Microban 24" />
+      <brand name="Mr. Proper" />
+      <brand name="Myth" />
       <brand name="Mr. Clean" />
       <brand name="My Black Is Beautiful" />
       <brand name="Native" />
+      <brand name="Naturella" />
       <brand name="Ninjamas" />
+      <brand name="Nice n' Easy" />
       <brand name="Olay" />
       <brand name="Old Spice" />
       <brand name="Oral-B" />
@@ -448,17 +591,22 @@
       <brand name="SK-II" />
       <brand name="Swiffer" />
       <brand name="Tampax" />
-      <brand name="The Art of Shaving" />
+      <brand name="Tempo" />
+      <brand name="Art of Shaving" />
       <brand name="This is L" />
       <brand name="Tide" />
       <brand name="Venus" />
+      <brand name="Whisper" />
       <brand name="Vicks" />
+      <brand name="Vicks 44" />
+      <brand name="Vidal Sassoon" />
+      <brand name="Venus" />
       <brand name="Zevo" />
       <brand name="ZzzQuil" />
     </company>
     <company name="Unilever">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="timesofisrael-unilever" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="AXE Logo Black" />
       <brand name="Axe" />
       <brand name="Bango" />
@@ -487,7 +635,7 @@
       <brand name="Vim cleaning products" />
     </company>
     <company name="Walmart">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="heritagefl-walmart" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Adventure Force" />
       <brand name="Allswell" />
@@ -551,8 +699,8 @@
       <brand name="Your Zone" />
     </company>
     <company name="Johnson &amp; Johnson">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="jnj-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Abciximab" />
       <brand name="Abiraterone acetate" />
       <brand name="Aciphex" />
@@ -561,9 +709,13 @@
       <brand name="Arestin" />
       <brand name="Aveeno" />
       <brand name="Axert" />
+      <brand name="Vendome" />
+      <brand name="Immodium" />
+      <brand name="Lubriderm" />
       <brand name="Band-Aid" />
       <brand name="Bedaquiline" />
       <brand name="Benadryl" />
+      <brand name="Bebe" />
       <brand name="Bengay" />
       <brand name="Benylin" />
       <brand name="Bortezomib" />
@@ -576,12 +728,15 @@
       <brand name="Complera" />
       <brand name="Concerta" />
       <brand name="Cortef" />
+      <brand name="Splenda" />
+      <brand name="Cortaid" />
       <brand name="Cyclobenzaprine" />
       <brand name="Dacogen" />
       <brand name="Dapoxetine" />
       <brand name="Daratumumab" />
       <brand name="Darunavir" />
       <brand name="Darzalex" />
+      <brand name="Dolormin" />
       <brand name="Decitabine" />
       <brand name="Dermabond" />
       <brand name="Ditropan XL" />
@@ -673,10 +828,13 @@
       <brand name="Rivaroxaban" />
       <brand name="Simeprevir" />
       <brand name="Simponi" />
+      <brand name="Rembrandt" />
+      <brand name="Roc" />
       <brand name="Sinutab" />
       <brand name="Sirturo" />
       <brand name="Spectazole" />
       <brand name="Sporanox" />
+      <brand name="Sudafed" />
       <brand name="Stelara" />
       <brand name="Tapentadol" />
       <brand name="Topamax" />
@@ -699,8 +857,9 @@
       <brand name="Zytiga" />
     </company>
     <company name="Nestlé">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="ihrc-list" />
+      <companySource ref="reuters-osem" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="8Cubes" />
       <brand name="Abuelita" />
       <brand name="Acqua Panna" />
@@ -1035,7 +1194,6 @@
       <brand name="Nanlac" />
       <brand name="NAT" />
       <brand name="Nativa" />
-      <brand name="Natura" />
       <brand name="Nature's Bounty" />
       <brand name="Nature's Heart" />
       <brand name="NaturNes" />
@@ -1253,21 +1411,21 @@
       <brand name="Zucosos" />
     </company>
     <company name="HMD Global">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="nokia-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Nokia" />
     </company>
     <company name="Lenovo">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="motorola-israel" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Motorola" />
     </company>
     <company name="Wix.com">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companyTag ref="IsraeliFacilities" />
     </company>
     <company name="Honest Company">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="baby2baby-israel" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Honest baby products" />
       <brand name="Honest bath and body" />
@@ -1277,8 +1435,8 @@
       <brand name="Honest wipes" />
     </company>
     <company name="Bansk Group">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="amika-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Amika haircare products" />
       <brand name="Arcadia Consumer Healthcare" />
       <brand name="Ethique" />
@@ -1287,8 +1445,8 @@
       <brand name="Woodstream" />
     </company>
     <company name="Strauss Group">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="straussgroup-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Achla" />
       <brand name="Actimel" />
       <brand name="Activia" />
@@ -1336,12 +1494,8 @@
       <brand name="Yad Mordechai" />
       <brand name="Yotvata" />
     </company>
-    <company name="Summer Fridays">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
-    </company>
     <company name="Ralph Lauren Corporation">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="bnn-donations" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Chaps" />
       <brand name="Double RL/RRL" />
@@ -1353,13 +1507,9 @@
       <brand name="Ralph Lauren Home" />
       <brand name="Ralph's Coffee" />
     </company>
-    <company name="WeWoreWhat/We Wore What">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
-    </company>
     <company name="Mondelēz International">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="foodprocessing-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="5 Star" />
       <brand name="7Days" />
       <brand name="Alpen Gold" />
@@ -1411,7 +1561,7 @@
       <brand name="Wheat Thins" />
     </company>
     <company name="3G Capital Inc.">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
       <brand name="ABC Heinz Indonesia" />
       <brand name="Aquila Beer" />
@@ -1496,37 +1646,15 @@
       <brand name="ZiegenBock" />
     </company>
     <company name="Pepsi Lipton Tea partnership (PepsiCo and Unilever)">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="ihrc-list" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Brisk Iced Tea" />
       <brand name="Lipton Iced Tea" />
       <brand name="Pure Leaf Iced Tea" />
     </company>
-    <company name="WK Kellogg Co">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
-      <brand name="All Bran" />
-      <brand name="Bear Naked Granola" />
-      <brand name="Corn Flakes" />
-      <brand name="Corn Pops" />
-      <brand name="Cracklin' Oat Bran" />
-      <brand name="Froot Loops" />
-      <brand name="Frosted Mini Wheats" />
-      <brand name="Honey Smacks" />
-      <brand name="Kashi" />
-      <brand name="Kellogg's Apple Jacks" />
-      <brand name="Kellogg's Frosted Flakes" />
-      <brand name="Kellogg's Rice Krispies" />
-      <brand name="Krave" />
-      <brand name="Müeslix Cereal" />
-      <brand name="Raisin Bran" />
-      <brand name="Smart Start Cereal" />
-      <brand name="Special K" />
-      <brand name="Vector" />
-    </company>
     <company name="Kellanova">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="pringles-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Austin" />
       <brand name="Carr's" />
       <brand name="Cheez-It" />
@@ -1548,25 +1676,25 @@
       <brand name="Zesta" />
     </company>
     <company name="LEGO Group">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="allisraelinews-lego" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Duplo" />
       <brand name="Lego" />
     </company>
     <company name="Ford Motor Company">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="ford-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Ford" />
       <brand name="Lincoln" />
       <brand name="Troller" />
     </company>
     <company name="Sweetgreen">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="apnews-sweetgreen" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Mars, Incorporated">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="mars-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand
         name="3 Musketeers chocolate bar" />
       <brand name="5 Gum/Five Gum" />
@@ -1689,8 +1817,8 @@
       <brand name="Wrigley's Winterfresh chewing gum" />
     </company>
     <company name="Roark Capital Group">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="israelhayom-hardees" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="1-800 Radiator" />
       <brand name="ABRA" />
       <brand name="Anytime Fitness" />
@@ -1759,11 +1887,11 @@
       <brand name="Youth Enrichment Brands" />
     </company>
     <company name="Papa John's">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Yum! Brands">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
       <brand name="The Habit Burger Grill" />
       <brand name="KFC" />
@@ -1771,20 +1899,20 @@
       <brand name="Taco Bell" />
     </company>
     <company name="Domino's Pizza, Inc.">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Marks and Spencer Group P.L.C.">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="ihrc-ms" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Marks &amp; Spencer" />
     </company>
     <company name="Goop">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="jns-letter" />
       <companyTag ref="SupportsIsrael" />
     </company>
     <company name="Warner Bros. Discovery">
-      <companySource ref="instagram-bazzibatul" />
+      <companySource ref="arifcrafiq-cnn" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Max (HBO Max)" />
       <brand name="HBO" />
@@ -1854,16 +1982,16 @@
       <brand name="Boing" />
     </company>
     <company name="Chevron">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="chevron-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Caltex" />
       <brand name="Chevron" />
       <brand name="Renewable Energy Group (REG)" />
       <brand name="Texaco" />
     </company>
     <company name="Keurig Dr Pepper">
-      <companySource ref="instagram-bazzibatul" />
-      <companyTag ref="SupportsIsrael" />
+      <companySource ref="schweppes-israel" />
+      <companyTag ref="IsraeliFacilities" />
       <brand name="Dr Pepper" />
       <brand name="7UP" />
       <brand name="Crush" />
@@ -2047,7 +2175,6 @@
       <brand name="Zovirax" />
       <brand name="Zyban" />
       <brand name="Zyloric" />
-      <brand name="Zyrtec" />
     </company>
     <company name="Haleon plc">
       <companySource ref="haleon-website" />
@@ -2069,6 +2196,138 @@
       <brand name="ENO Antacid" />
       <brand name="Fenistil Antihistamine" />
     </company>
+    <company name="United Jewish Appeal">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+    </company>
+    <company name="Magen David Adom">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+    </company>
+    <company name="Fox Corporation">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+      <brand name="Fox" />
+      <brand name="Fox News" />
+      <brand name="Fox Sports" />
+      <brand name="Fox Entertainment" />
+      <brand name="Tubi" />
+      <brand name="Credible" />
+      <brand name="OutKick" />
+      <brand name="Bento Box" />
+      <brand name="Blockchain Creative Labs " />
+      <brand name="MarVista Entertainment" />
+      <brand name="Studio Ramsay Global Digital" />
+      <brand name="TMZ" />
+    </company>
+    <company name="Paramount Global">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+      <brand name="Paramount Animation" />
+      <brand name="Paramount Home Entertainment" />
+      <brand name="Paramount Players" />
+      <brand name="Paramount Television Studios" />
+      <brand name="Paramount Digital Entertainment" />
+      <brand name="Miramax" />
+      <brand name="Nickelodeon Movies" />
+      <brand name="Viacom18 Studios" />
+      <brand name="The CW" />
+      <brand name="CBS Sports Network" />
+      <brand name="CBS Home Entertainment" />
+      <brand name="CBS Media Ventures" />
+      <brand name="CBS Television Stations" />
+      <brand name="CBS Interactive" />
+      <brand name="CBS Records" />
+      <brand name="CBS EYE Productions" />
+      <brand name="CBS News Radio" />
+      <brand name="CBS Sports" />
+      <brand name="CBSN" />
+      <brand name="CBS News" />
+      <brand name="CBS Sports HQ" />
+      <brand name="CBS Watch" />
+      <brand name="CBS Studios" />
+      <brand name="Nickelodeon" />
+      <brand name="Nick Jr." />
+      <brand name="Nicktoons" />
+      <brand name="NickMusic" />
+      <brand name="Nick at Nite" />
+      <brand name="TeenNick" />
+      <brand name="Nickelodeon Magazine" />
+      <brand name="Nickelodeon Productions" />
+      <brand name="Nickelodeon Animation Studio" />
+      <brand name="MTV" />
+      <brand name="MTV2" />
+      <brand name="MTV Entertainment Studios" />
+      <brand name="VH1" />
+      <brand name="CMT" />
+      <brand name="CMT Music" />
+      <brand name="Paramount Network" />
+      <brand name="Comedy Central" />
+      <brand name="Logo" />
+      <brand name="Pop" />
+      <brand name="Comedy Central Records" />
+      <brand name="Showtime" />
+      <brand name="BET" />
+      <brand name="BET Gospel" />
+      <brand name="BET Her" />
+      <brand name="BET Jams" />
+      <brand name="BET Soul" />
+      <brand name="The Movie Channel" />
+      <brand name="Network 10" />
+      <brand name="Chilevisión" />
+      <brand name="Telefe" />
+      <brand name="Telefe Internacional" />
+      <brand name="Colors" />
+      <brand name="Channel 5" />
+      <brand name="ViacomCBS International Studios" />
+      <brand name="Paramount Streaming logo" />
+      <brand name="Paramount+" />
+      <brand name="Noggin" />
+      <brand name="Voot" />
+      <brand name="Pluto TV" />
+      <brand name="VidCon" />
+      <brand name="Viacom Velocity" />
+      <brand name="Viacom Vantage" />
+      <brand name="Paws, Inc." />
+      <brand name="Rainbow" />
+      <brand name="Mirage Studios" />
+      <brand name="Paramount Consumer Products" />
+    </company>
+    <company name="Caterpillar">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+    </company>
+    <company name="Teva">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+    </company>
+    <company name="Spyglass Media Group, LLC ">
+      <companySource ref="ihrc-list" />
+      <companyTag ref="SupportsIsrael" />
+      <brand name="Spyglass Entertainment" />
+    </company>
+    <company name="IBM/International Business Machines">
+      <companySource ref="ibm-israel" />
+      <companyTag ref="IsraeliFacilities" />
+    </company>
+    <company name="Kimberly-Clark Corporation">
+      <companySource ref="kimberlyclark-israel" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="Cotex" />
+      <brand name="Depends" />
+      <brand name="Poise" />
+      <brand name="Kleenex" />
+      <brand name="Scott" />
+      <brand name="Viva" />
+      <brand name="Cottonelle" />
+      <brand name="Wondersoft" />
+      <brand name="Thick &amp; Thirsty" />
+      <brand name="Huggies" />
+      <brand name="Huggies Pullups" />
+      <brand name="Huggies DryNites" />
+      <brand name="Huggies GoodNites" />
+      <brand name="Huggies Little swimmers" />
+    </company>
     <!--
     <company name="">
       <companySource ref="" />
@@ -2080,11 +2339,10 @@
   <sources>
     <source id="bds-what-to-boycott" url="https://bdsmovement.net/get-involved/what-to-boycott">
       bdsmovement.net</source>
+    <source id="bds-puma" url="https://bdsmovement.net/boycott-puma">bdsmovement.net</source>
     <source id="disney-donate"
       url="https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/">
       thewaltdisneycompany.com</source>
-    <source id="instagram-bazzibatul" url="https://www.instagram.com/p/CyekzB3LcR-/?img_index=1">
-      @bazzibatul</source>
     <source id="aclu-labor-report"
       url="https://www.aclu.org/wp-content/uploads/legal-documents/2022-06-15-captivelaborresearchreport.pdf">Captive
       Labor: Exploitation of Incarcerated Workers</source>
@@ -2099,15 +2357,93 @@
       Overthrow of the Hawaiian Monarchy</source>
     <source id="gsk-website" url="https://www.gsk.com">GSK.com</source>
     <source id="haleon-website" url="https://www.haleon.com">haleon.com</source>
+    <source id="businessinsider-mcdonalds"
+      url="https://www.businessinsider.com/mcdonalds-donating-thousands-meals-idf-israeli-citizens-hamas-attacks-2023?op=1">Business
+      Insider</source>
+    <source id="abcnews-starbucks"
+      url="https://abcnews.go.com/Business/companies-starbucks-mcdonalds-face-controversy-amid-israel-hamas/story?id=104219615">ABC
+      News</source>
+    <source id="ethicalconsumer-amazon"
+      url="https://www.ethicalconsumer.org/ethicalcampaigns/boycott-amazon">ethicalconsumer.org</source>
+    <source id="businessinsider-amazon"
+      url="https://www.businessinsider.com/amazon-owns-these-brands-list-2018-7?op=1">Amazon owns
+      more than 80 private-label brands</source>
+    <source id="investopedia-amazon"
+      url="https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp">6
+      Companies Owned by Amazon</source>
+    <source id="nike-israel" url="https://www.nike.com/il">Nike Israel</source>
+    <source id="revlon-israel" url="https://www.instagram.com/revlon_israel/">@revlon_israel</source>
+    <source id="loreal-israel" url="https://www.loreal.com/en/israel/">loreal.com</source>
+    <source id="jnj-israel" url="https://www.jnjcareers.co.il/en">jnjcareers.co.il</source>
+    <source id="cocacola-israel" url="https://blogs.timesofisrael.com/coca-colas-new-bridge-to-israel/">Coca-Cola’s New "Bridge" to Israel</source>
+    <source id="timesofisrael-unilever"
+      url="https://www.timesofisrael.com/liveblog_entry/unilever-chief-says-company-fully-committed-to-israel/">Unilever
+      chief says company 'fully committed' to Israel</source>
+    <source id="wwd-victoriassecret"
+      url="https://wwd.com/feature/victorias-secret-israel-stores-1234687243/">Victoria's Secret,
+      Bath &amp; Body Works Expanding to Israel</source>
+    <source id="ihrc-list" url="https://www.ihrc.org.uk/boycott-genocide/">Islamic Human Rights
+      Commission</source>
+    <source id="skims-instagram" url="https://www.instagram.com/p/CyRnmHgvhgv/?img_index=1">
+      @kimkardashian</source>
+    <source id="hilfiger-twitter" url="https://twitter.com/MiddleEastMnt/status/1711664103637287032">
+      @MiddleEastMnt</source>
+    <source id="bnn-kardashian"
+      url="https://bnn.network/arts/kardashian-family-voices-support-for-israel-amidst-conflict/">Kardashian
+      Family Voices Support for Israel Amidst Conflict</source>
+    <source id="ae-israel" url="https://storelocations.ae.com/il">ae.com</source>
+    <source id="sunnahonline-pg"
+      url="https://sunnahonline.com/library/contemporary-issues/41-palestine-and-israel/748-boycott-israel-who-and-why#h5-6-procter-amp-gamble">
+      sunnahonline.com</source>
+    <source id="israelhayom-hardees"
+      url="https://www.israelhayom.com/2021/12/03/hardees-promises-to-give-israelis-something-to-chew-on/">
+      israelhayom.com</source>
+    <source id="adage-billboard"
+      url="https://adage.com/article/digital-marketing-ad-tech-news/israel-hamas-war-how-brands-ad-tech-firms-agencies-are-responding/2521656">
+      adage.com</source>
+    <source id="heritagefl-walmart"
+      url="https://www.heritagefl.com/story/2023/11/10/news/walmart-stands-with-israel/19050.html">WalMart
+      stands with Israel</source>
+    <source id="loreal-israel" url="https://www.loreal.com/en/israel/">loreal.com</source>
+    <source id="greenleft-loreal"
+      url="https://www.greenleft.org.au/content/boycott-loreal-because-palestine-worth-it">
+      greenleft.org.au</source>
+    <source id="blushing-giraffe" url="http://www.theblushinggiraffe.com/">theblushinggiraffe.com</source>
+    <source id="pringles-israel" url="https://www.pringles.com/il/home.html">pringles.com/il</source>
+    <source id="nokia-israel" url="https://www.nokia.com/contact-us/offices/#europe">nokia.com</source>
+    <source id="motorola-israel" url="https://www.motorolasolutions.com/newsroom/press-releases/motorola-solutions-launches-innovation-center-in-israel.html">
+      motorolasolutions.com</source>
+    <source id="arifcrafiq-cnn" url="https://twitter.com/ArifCRafiq/status/1721258414448222677">
+      @ArifCRafiq</source>
+    <source id="mayniaga-drpepper"
+      url="https://www.mayniaga.com/dr-pepper-israel-support-what-you-need-to-know/"></source>
+    <source id="allisraelinews-lego"
+      url="https://allisrael.com/israel-s-first-official-lego-store-opens-in-israel">allisrael.com</source>
+    <source id="amika-israel" url="https://www.loveamika.co.il/contact/">loveamika.co.il</source>
+    <source id="straussgroup-israel" url="https://www.strauss-group.com/location/strauss_israel/">strauss-group.com</source>
+    <source id="foodprocessing-israel" url="https://www.foodprocessing-technology.com/news/mondelez-internationals-snackfutures-invests-in-food-tech-startup-torr/">foodprocessing-technology.com</source>
+    <source id="reuters-osem" url="https://www.reuters.com/article/us-osem-investments-m-a-nestle-idUSKCN0VD0Y5/">reuters.com</source>
+    <source id="bnn-donations" url="https://bnn.network/breaking-news/social/global-donations-from-corporations-like-disney-chanel-fox-to-israel-spark-controversy/">bnn.network</source>
+    <source id="mars-israel" url="https://www.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners">mars.com</source>
+    <source id="ford-israel" url="https://ford-israel.co.il/">ford-israel.co.il</source>
+    <source id="chevron-israel" url="https://israel.chevron.com/en/about">israel.chevron.com</source>
+    <source id="schweppes-israel" url="https://www.schweppes.co.il/contact/">schweppes.co.il</source>
+    <source id="ohchr-israel" url="https://www.ohchr.org/en/press-releases/2020/02/un-rights-office-issues-report-business-activities-related-settlements?LangID=E&amp;NewsID=25542">ohchr.org</source>
+    <source id="ibm-israel" url="https://www.ibm.com/planetwide/il/">ibm.com</source>
+    <source id="ihrc-ms" url="https://www.ihrc.org.uk/briefing-a-brief-chronology-of-the-marks-spencer-israel-relationship/">ohchr.org</source>
+    <source id="jns-letter" url="https://www.jns.org/hollywood-celebs-urge-biden-to-ensure-release-of-israeli-hostages/">jns.org</source>
+    <source id="baby2baby-israel" url="https://www.linkedin.com/posts/baby2baby_baby2baby-has-over-half-a-million-emergency-activity-7121249732563275776-MOVn">baby2baby</source>
+    <source id="apnews-sweetgreen" url="https://apnews.com/article/israel-hamas-war-palestinians-companies-harvard-daecf3a387a689339dc41f35b773e063">apnews.com</source>
+    <source id="kimberlyclark-israel" url="https://www.kimberly-clark.co.il/il/contact.aspx">kimberly-clark.co.il</source>
   </sources>
 
   <tags>
     <tag id="PriorityBoycott">Priority Boycott</tag>
     <tag id="SupportsIsrael">Supports Israel</tag>
-    <tag id="IsraeliCollaborator">Israeli Collaborator</tag>
     <tag id="IsraeliFacilities">Israeli Facilities</tag>
     <tag id="PrisonLabor">Prison Labor</tag>
     <tag id="NaziMoney">Nazi Money</tag>
     <tag id="Imperialism">Imperialism</tag>
+    <tag id="LaborPractices">Labor Practices</tag>
   </tags>
 </root>
