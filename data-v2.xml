@@ -4,84 +4,84 @@
       <companySource ref="bds-what-to-boycott" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
-      <brand name="HP" />
-      <brand name="OMEN" />
-      <brand name="HyperX" />
-      <brand name="Z by HP" />
-      <brand name="HP Wolf Security" />
-      <brand name="HP Anyware" />
       <brand name="Fitstation by HP" />
+      <brand name="HP Anyware" />
+      <brand name="HP Wolf Security" />
+      <brand name="HP" />
+      <brand name="HyperX" />
+      <brand name="OMEN" />
+      <brand name="Z by HP" />
     </company>
     <company name="Siemens AG">
       <companySource ref="bds-what-to-boycott" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Mentor Graphics" />
-      <brand name="Siemens Corporation" />
-      <brand name="Siemens Energy" />
-      <brand name="Large Drives Applications" />
-      <brand name="Siemens Logistics" />
-      <brand name="Sykatec" />
-      <brand name="Siemens Xcelerator" />
-      <brand name="Industrial Operations X" />
-      <brand name="Siemens USA" />
       <brand name="Brightly Software" />
       <brand name="Building X" />
-      <brand name="Siemens Mobility" />
-      <brand name="Siemens Healthineers AG" />
+      <brand name="Industrial Operations X" />
+      <brand name="Large Drives Applications" />
+      <brand name="Next47" />
+      <brand name="Siemens Advanta" />
+      <brand name="Siemens Corporation" />
+      <brand name="Siemens Energy" />
       <brand name="Siemens Financial Services" />
       <brand name="Siemens Government Technologies" />
-      <brand name="Siemens Advanta" />
-      <brand name="Next47" />
+      <brand name="Siemens Healthineers AG" />
+      <brand name="Siemens Logistics" />
+      <brand name="Siemens Mobility" />
+      <brand name="Siemens USA" />
+      <brand name="Siemens Xcelerator" />
+      <brand name="Sykatec" />
     </company>
     <company name="AXA group">
       <companySource ref="bds-what-to-boycott" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
+      <brand name="Angel Risk Management Ltd" />
+      <brand name="AXA XL Insurance Company UK Limited" />
+      <brand name="AXA XL Underwriting Agencies Limited" />
       <brand name="Brooklyn" />
       <brand name="Catlin Australia Pty Ltd" />
+      <brand name="Catlin Insurance Company Inc." />
       <brand name="Greenwich Insurance Company" />
       <brand name="Indian Harbor Insurance Company" />
-      <brand name="XL Insurance companies" />
-      <brand name="AXA XL Underwriting Agencies Limited" />
-      <brand name="AXA XL Insurance Company UK Limited" />
-      <brand name="Catlin Insurance Company Inc." />
       <brand name="T.H.E. Insurance Company" />
-      <brand name="Angel Risk Management Ltd" />
       <brand name="XL Catlin Services SE" />
+      <brand name="XL Insurance companies" />
     </company>
     <company name="Groupe Artémis S.A.">
       <companySource ref="bds-what-to-boycott" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
-      <brand name="Kering" />
-      <brand name="Puma" />
-      <brand name="Creative Artists Agency" />
-      <brand name="Christie's" />
-      <brand name="Artemis Domaines" />
-      <brand name="Ponant" />
-      <brand name="Point de vue" />
-      <brand name="Le Point" />
-      <brand name="Tallandier" />
-      <brand name="Courrèges" />
-      <brand name="Giambattista Valli" />
-      <brand name="Breizh Café" />
       <brand name="1st Dibs" />
+      <brand name="Artemis Domaines" />
       <brand name="Bolt Threads" />
       <brand name="Bowery" />
+      <brand name="Breizh Café" />
       <brand name="Brut" />
       <brand name="ByteDance" />
+      <brand name="Christie's" />
+      <brand name="Courrèges" />
+      <brand name="Creative Artists Agency" />
+      <brand name="Deezer" />
       <brand name="Delage" />
       <brand name="Digit RE Group" />
       <brand name="Farfetch" />
+      <brand name="Giambattista Valli" />
       <brand name="Goat" />
       <brand name="Grailed" />
-      <brand name="Deezer" />
+      <brand name="Kering" />
+      <brand name="Le Point" />
       <brand name="Nabla" />
       <brand name="Ostendo" />
+      <brand name="Point de vue" />
+      <brand name="Ponant" />
       <brand name="Procore" />
       <brand name="Prose" />
+      <brand name="Puma" />
       <brand name="Red River West" />
+      <brand name="Tallandier" />
     </company>
     <company name="Israeli produce">
       <companySource ref="bds-what-to-boycott" />
@@ -103,6 +103,7 @@
       <brand name="Core Publishing" />
       <brand name="Disney+" />
       <brand name="ESPN" />
+      <brand name="History Channel" />
       <brand name="Hollywood Records" />
       <brand name="Hulu" />
       <brand name="Lifetime" />
@@ -112,7 +113,6 @@
       <brand name="National Geographic Channel" />
       <brand name="National Geographic" />
       <brand name="Pixar" />
-      <brand name="The History Channel" />
       <brand name="Touchstone Pictures" />
       <brand name="Vice Media" />
     </company>
@@ -213,26 +213,18 @@
       <companySource ref="businessinsider-amazon" />
       <companyTag ref="SupportsIsrael" />
       <companyTag ref="LaborPractices" />
-      <brand name="AWS/Amazon Web Services" />
-      <brand name="Whole Foods Market" />
-      <brand name="Zappos" />
-      <brand name="Kiva Systems" />
-      <brand name="PillPack" />
-      <brand name="Twitch Interactive" />
-      <brand name="MGM Holdings Inc." />
-      <brand name="Ring" />
       <brand name="206 Collective" />
       <brand name="28 Palms" />
       <brand name="7Goals" />
       <brand name="A For Awesome" />
-      <brand name="Basics" />
-      <brand name="Elements vitamins and baby products" />
-      <brand name="Essentials" />
       <brand name="Arabella" />
+      <brand name="AWS/Amazon Web Services" />
       <brand name="Basic Care" />
+      <brand name="Basics" />
       <brand name="Beauty Bar" />
       <brand name="Buttoned Down" />
       <brand name="Cable Stitch" />
+      <brand name="Cambridge Collection" />
       <brand name="Camp Moonlight" />
       <brand name="Clifton Heritage" />
       <brand name="Coastal Blue" />
@@ -241,9 +233,12 @@
       <brand name="Crafted Collar" />
       <brand name="Daily Rituals" />
       <brand name="Denim Bloom" />
+      <brand name="Elements vitamins and baby products" />
       <brand name="Ella Moon" />
       <brand name="Emma Riley" />
       <brand name="Essentialist" />
+      <brand name="Essentials" />
+      <brand name="Fix" />
       <brand name="Franklin &amp; Freeman" />
       <brand name="Good Brief" />
       <brand name="Goodsport" />
@@ -256,59 +251,64 @@
       <brand name="Isle Bay Linens" />
       <brand name="James &amp; Erin" />
       <brand name="Kid Nation" />
+      <brand name="Kiva Systems" />
       <brand name="Kold Feet" />
       <brand name="Lark &amp; Ro" />
       <brand name="Leather Artchitect" />
       <brand name="Lily Parker" />
+      <brand name="Lovely Tote Co" />
+      <brand name="Luna Coalition" />
       <brand name="Madeline Kelly" />
       <brand name="Madison Denim" />
       <brand name="Mae" />
       <brand name="Mama Bear" />
       <brand name="Mariella Bella" />
+      <brand name="MGM Holdings Inc." />
       <brand name="Mint Lilac" />
       <brand name="Moon &amp; Back" />
+      <brand name="North Eleven" />
+      <brand name="Nupro" />
       <brand name="Ocean Blues" />
       <brand name="Painted Heart" />
       <brand name="Paris Sunday" />
       <brand name="Peak Velocity" />
-      <brand name="North Eleven" />
-      <brand name="Nupro" />
       <brand name="Pike Street" />
+      <brand name="PillPack" />
       <brand name="Pinzon" />
       <brand name="Plumberry" />
+      <brand name="Plus Project" />
       <brand name="Presto" />
       <brand name="Quality Durables Co" />
       <brand name="Rebel Canyon" />
+      <brand name="Ring" />
       <brand name="Rivet" />
       <brand name="Rugged Mile Denim" />
       <brand name="Savoir Faire" />
       <brand name="Scout + Ro" />
       <brand name="Signature Society" />
+      <brand name="Single Cow Burger" />
+      <brand name="Slumber Project" />
+      <brand name="Small Parts" />
       <brand name="Smitten" />
       <brand name="Social Graces" />
+      <brand name="Solimo" />
       <brand name="Something For Everyone" />
       <brand name="Spotted Zebra" />
       <brand name="Stocking Fox" />
       <brand name="Stone &amp; Beam" />
+      <brand name="Strathwood" />
       <brand name="Suite Alice" />
-      <brand name="Cambridge Collection" />
-      <brand name="Fix" />
-      <brand name="Lovely Tote Co" />
-      <brand name="Luna Coalition" />
-      <brand name="Plus Project" />
-      <brand name="Slumber Project" />
       <brand name="Trailside Supply Co" />
       <brand name="True Angel" />
+      <brand name="Twitch Interactive" />
       <brand name="Ugly Fair Isle" />
       <brand name="Velvet Rope" />
-      <brand name="Single Cow Burger" />
-      <brand name="Small Parts" />
-      <brand name="Solimo" />
-      <brand name="Strathwood" />
       <brand name="Wag Dog Food" />
+      <brand name="Whole Foods Market" />
       <brand name="Wickedly Prime" />
       <brand name="Wild Meadow" />
       <brand name="Wood Paper Company" />
+      <brand name="Zappos" />
     </company>
     <company name="Coca-Cola Company">
       <companySource ref="ihrc-list" />
@@ -399,41 +399,41 @@
       <companySource ref="blushing-giraffe" />
       <companyTag ref="IsraeliFacilities" />
       <brand name="Biotherm" />
-      <brand name="Clarisonic" />
       <brand name="Cacharel" />
+      <brand name="Clarisonic" />
       <brand name="Diesel" />
       <brand name="Essie" />
       <brand name="Garnier" />
-      <brand name="Guy Laroche" />
       <brand name="Giorgio Armani Beauty" />
+      <brand name="Guy Laroche" />
       <brand name="Helena Rubenstein" />
+      <brand name="Inneove" />
       <brand name="IT Cosmetics" />
       <brand name="Kérastase" />
       <brand name="Kiehl's" />
-      <brand name="Inneove" />
-      <brand name="Sanoflore" />
       <brand name="L'Oréal Paris" />
       <brand name="L'Oréal Professionnel" />
       <brand name="La Roche-Posay" />
       <brand name="Lancôme" />
       <brand name="Maison Martin Margiela" />
-      <brand name="Mizani" />
+      <brand name="Matrix" />
       <brand name="Maybelline New York" />
+      <brand name="Mizani" />
       <brand name="NYX Professional Makeup" />
-      <brand name="Prada Beauty" />
       <brand name="Paloma Picasso" />
+      <brand name="Prada Beauty" />
       <brand name="Pureology" />
       <brand name="Ralph Lauren" />
-      <brand name="Rogers and Gallet" />
       <brand name="Redken" />
-      <brand name="Matrix" />
+      <brand name="Rogers and Gallet" />
+      <brand name="Sanoflore" />
       <brand name="Shu Uemura" />
-      <brand name="Soft Sheen Carson" />
       <brand name="Skinceuticals" />
+      <brand name="Soft Sheen Carson" />
       <brand name="Urban Decay" />
       <brand name="Vichy" />
-      <brand name="Yue Sai" />
       <brand name="Viktor&amp;Rolf" />
+      <brand name="Yue Sai" />
       <brand name="Yves Saint Laurent Beauté" />
     </company>
     <company name="Victoria's Secret &amp; Co.">
@@ -453,10 +453,10 @@
       <brand name="Becca" />
       <brand name="Bobbi Brown" />
       <brand name="Bumble and bumble" />
-      <brand name="Coach" />
       <brand name="Clinique" />
-      <brand name="Donna Caran" />
+      <brand name="Coach" />
       <brand name="Darphin Paris" />
+      <brand name="Donna Caran" />
       <brand name="Dr.Jart+" />
       <brand name="Estée Lauder" />
       <brand name="Frédéric Malle/Editions de Parfums" />
@@ -472,8 +472,8 @@
       <brand name="MAC Cosmetics" />
       <brand name="Niod" />
       <brand name="Ojon" />
-      <brand name="Osiao" />
       <brand name="Origins" />
+      <brand name="Osiao" />
       <brand name="Smashbox" />
       <brand name="The Ordinary" />
       <brand name="Tom Ford Beauty" />
@@ -526,6 +526,7 @@
       <brand name="Always" />
       <brand name="Ambi Pur" />
       <brand name="Ariel Laundry Products" />
+      <brand name="Art of Shaving" />
       <brand name="Aussie" />
       <brand name="Bounce" />
       <brand name="Bounty" />
@@ -534,26 +535,26 @@
       <brand name="Charlie-Banana" />
       <brand name="Charmin" />
       <brand name="Cheer" />
-      <brand name="Comet" />
-      <brand name="Clearblue" />
       <brand name="Clairol Professional" />
+      <brand name="Clearblue" />
+      <brand name="Comet" />
       <brand name="Covergirl" />
       <brand name="Crest" />
-      <brand name="Dawn" />
       <brand name="Dash" />
-      <brand name="Duracell" />
+      <brand name="Dawn" />
       <brand name="Daz" />
-      <brand name="Downy" />
       <brand name="Dodot" />
       <brand name="Dolce and Gabbana" />
+      <brand name="Downy" />
       <brand name="Dreft" />
+      <brand name="Duracell" />
       <brand name="Era" />
       <brand name="Fab" />
       <brand name="Fairy" />
       <brand name="Febreze" />
       <brand name="Feminine Care Tampons" />
-      <brand name="Fusion" />
       <brand name="Fixodent" />
+      <brand name="Fusion" />
       <brand name="Gain" />
       <brand name="Gala" />
       <brand name="Gillette" />
@@ -567,14 +568,14 @@
       <brand name="Max Factor" />
       <brand name="Meta Mucil" />
       <brand name="Microban 24" />
-      <brand name="Mr. Proper" />
-      <brand name="Myth" />
       <brand name="Mr. Clean" />
+      <brand name="Mr. Proper" />
       <brand name="My Black Is Beautiful" />
+      <brand name="Myth" />
       <brand name="Native" />
       <brand name="Naturella" />
-      <brand name="Ninjamas" />
       <brand name="Nice n' Easy" />
+      <brand name="Ninjamas" />
       <brand name="Olay" />
       <brand name="Old Spice" />
       <brand name="Oral-B" />
@@ -592,15 +593,14 @@
       <brand name="Swiffer" />
       <brand name="Tampax" />
       <brand name="Tempo" />
-      <brand name="Art of Shaving" />
       <brand name="This is L" />
       <brand name="Tide" />
       <brand name="Venus" />
-      <brand name="Whisper" />
-      <brand name="Vicks" />
-      <brand name="Vicks 44" />
-      <brand name="Vidal Sassoon" />
       <brand name="Venus" />
+      <brand name="Vicks 44" />
+      <brand name="Vicks" />
+      <brand name="Vidal Sassoon" />
+      <brand name="Whisper" />
       <brand name="Zevo" />
       <brand name="ZzzQuil" />
     </company>
@@ -709,13 +709,10 @@
       <brand name="Arestin" />
       <brand name="Aveeno" />
       <brand name="Axert" />
-      <brand name="Vendome" />
-      <brand name="Immodium" />
-      <brand name="Lubriderm" />
       <brand name="Band-Aid" />
+      <brand name="Bebe" />
       <brand name="Bedaquiline" />
       <brand name="Benadryl" />
-      <brand name="Bebe" />
       <brand name="Bengay" />
       <brand name="Benylin" />
       <brand name="Bortezomib" />
@@ -727,20 +724,19 @@
       <brand name="Comfyde" />
       <brand name="Complera" />
       <brand name="Concerta" />
-      <brand name="Cortef" />
-      <brand name="Splenda" />
       <brand name="Cortaid" />
+      <brand name="Cortef" />
       <brand name="Cyclobenzaprine" />
       <brand name="Dacogen" />
       <brand name="Dapoxetine" />
       <brand name="Daratumumab" />
       <brand name="Darunavir" />
       <brand name="Darzalex" />
-      <brand name="Dolormin" />
       <brand name="Decitabine" />
       <brand name="Dermabond" />
       <brand name="Ditropan XL" />
       <brand name="Ditropan" />
+      <brand name="Dolormin" />
       <brand name="Doripenem" />
       <brand name="Doxil" />
       <brand name="Doxorubicin" />
@@ -762,6 +758,7 @@
       <brand name="Helioplex" />
       <brand name="Ibrutinib" />
       <brand name="Iloprost" />
+      <brand name="Immodium" />
       <brand name="Imodium" />
       <brand name="Incivek" />
       <brand name="Infliximab" />
@@ -788,6 +785,7 @@
       <brand name="Levoquin" />
       <brand name="Listerine" />
       <brand name="Loperamide" />
+      <brand name="Lubriderm" />
       <brand name="Macitentan" />
       <brand name="McN5652" />
       <brand name="Mebendazole" />
@@ -818,6 +816,7 @@
       <brand name="Rabeprazole" />
       <brand name="Reactine" />
       <brand name="Regaine" />
+      <brand name="Rembrandt" />
       <brand name="Remicade" />
       <brand name="ReoPro" />
       <brand name="Resolor" />
@@ -826,16 +825,16 @@
       <brand name="Risperdal" />
       <brand name="Risperidone" />
       <brand name="Rivaroxaban" />
+      <brand name="Roc" />
       <brand name="Simeprevir" />
       <brand name="Simponi" />
-      <brand name="Rembrandt" />
-      <brand name="Roc" />
       <brand name="Sinutab" />
       <brand name="Sirturo" />
       <brand name="Spectazole" />
+      <brand name="Splenda" />
       <brand name="Sporanox" />
-      <brand name="Sudafed" />
       <brand name="Stelara" />
+      <brand name="Sudafed" />
       <brand name="Tapentadol" />
       <brand name="Topamax" />
       <brand name="Topiramate" />
@@ -846,6 +845,7 @@
       <brand name="Ultram" />
       <brand name="Ustekinumab" />
       <brand name="Velcade" />
+      <brand name="Vendome" />
       <brand name="Vermox" />
       <brand name="Visine" />
       <brand name="VUF-6002" />
@@ -1695,125 +1695,93 @@
     <company name="Mars, Incorporated">
       <companySource ref="mars-israel" />
       <companyTag ref="IsraeliFacilities" />
-      <brand
-        name="3 Musketeers chocolate bar" />
+      <brand name="3 Musketeers chocolate bar" />
       <brand name="5 Gum/Five Gum" />
       <brand name="Acana" />
-      <brand
-        name="Altoids Peppermints" />
+      <brand name="Altoids Peppermints" />
       <brand name="American Heritage Chocolate" />
-      <brand
-        name="AniCura" />
+      <brand name="AniCura" />
       <brand name="antech" />
       <brand name="API aquarium supplies" />
-      <brand
-        name="Aquarian aquarium supplies" />
+      <brand name="Aquarian aquarium supplies" />
       <brand name="AVD" />
       <brand name="Balisto Bar" />
-      <brand
-        name="Banfield Pet Hospital" />
+      <brand name="Banfield Pet Hospital" />
       <brand name="BluePearl" />
       <brand name="Bounty chocolate bar" />
-      <brand
-        name="Buckeye Nutrition" />
+      <brand name="Buckeye Nutrition" />
       <brand name="Catsan" />
       <brand name="Celebrations chocolate" />
-      <brand
-        name="cesar" />
+      <brand name="cesar" />
       <brand name="Chappie" />
       <brand name="CocoaVia" />
-      <brand
-        name="Combos baked snacks" />
+      <brand name="Combos baked snacks" />
       <brand name="Crave" />
       <brand name="Dolmio" />
-      <brand
-        name="Doublemint chewing gum" />
+      <brand name="Doublemint chewing gum" />
       <brand name="Dove Chocolate" />
       <brand name="dreamies" />
-      <brand
-        name="Eclipse sugar-free gum and mints" />
+      <brand name="Eclipse sugar-free gum and mints" />
       <brand name="Ethel M Chocolates" />
-      <brand
-        name="eukanuba" />
+      <brand name="eukanuba" />
       <brand name="Foodspring" />
       <brand name="Galaxy chocolate" />
-      <brand
-        name="Greenies" />
+      <brand name="Greenies" />
       <brand name="Hubba Bubba bubble gum" />
       <brand name="Iams pet food" />
-      <brand
-        name="Juicy Fruit gum" />
+      <brand name="Juicy Fruit gum" />
       <brand name="JWB" />
       <brand name="Kan Tong" />
-      <brand
-        name="Kevin's Natural Foods" />
+      <brand name="Kevin's Natural Foods" />
       <brand name="KIND Bar" />
       <brand name="Kitekat" />
-      <brand
-        name="Life Savers fruity confections and mints" />
+      <brand name="Life Savers fruity confections and mints" />
       <brand name="Linnaeus" />
-      <brand
-        name="Lovebug" />
+      <brand name="Lovebug" />
       <brand name="M&amp;M's chocolate candies" />
-      <brand
-        name="Maltesers chocolate" />
+      <brand name="Maltesers chocolate" />
       <brand name="Mars Bar" />
       <brand name="MasterFoods" />
-      <brand
-        name="Milky Way Bar" />
+      <brand name="Milky Way Bar" />
       <brand name="Miracoli" />
       <brand name="Misfits" />
-      <brand
-        name="Mt. Pleasant vet group" />
+      <brand name="Mt. Pleasant vet group" />
       <brand name="MVH Mars Veterinary Health" />
-      <brand
-        name="My M&amp;M'S Chocolate candies" />
+      <brand name="My M&amp;M'S Chocolate candies" />
       <brand name="Mycatdna" />
       <brand name="Mydogdna" />
-      <brand
-        name="Nature's Bakery" />
+      <brand name="Nature's Bakery" />
       <brand name="natusan" />
       <brand name="Nom Nom" />
       <brand name="nutro" />
-      <brand
-        name="Orbit" />
+      <brand name="Orbit" />
       <brand name="Orijen" />
       <brand name="Peawee" />
       <brand name="Pedigree" />
-      <brand
-        name="Perfect Fit" />
+      <brand name="Perfect Fit" />
       <brand name="ROYAL CANIN" />
       <brand name="Royco" />
-      <brand
-        name="Seeds of Change" />
+      <brand name="Seeds of Change" />
       <brand name="sheba" />
-      <brand
-        name="Skittles bite-sized chewing candies" />
+      <brand name="Skittles bite-sized chewing candies" />
       <brand name="Snickers Bar" />
-      <brand
-        name="Spillers" />
+      <brand name="Spillers" />
       <brand name="Starbursts fruit chews" />
       <brand name="Suzi Wan" />
-      <brand
-        name="Tasty Bite" />
+      <brand name="Tasty Bite" />
       <brand name="Temptations" />
       <brand name="Thomas Cat Litter" />
-      <brand
-        name="Tru Fru" />
+      <brand name="Tru Fru" />
       <brand name="Twix Caramel Cookie Bar" />
       <brand name="VES" />
-      <brand
-        name="VSH Mars Petcare" />
+      <brand name="VSH Mars Petcare" />
       <brand name="Waltham Center for Pet Nutrition" />
-      <brand
-        name="Whiskas" />
+      <brand name="Whiskas" />
       <brand name="WINERGY Equilibrium" />
       <brand name="WISDOM PANEL" />
-      <brand
-        name="Wrigley's Big Red chewing gum" />
+      <brand name="Wrigley's Big Red chewing gum" />
       <brand name="Wrigley's Extra gum" />
-      <brand
-        name="Wrigley's Spearmint chewing gum" />
+      <brand name="Wrigley's Spearmint chewing gum" />
       <brand name="Wrigley's Winterfresh chewing gum" />
     </company>
     <company name="Roark Capital Group">
@@ -1914,72 +1882,72 @@
     <company name="Warner Bros. Discovery">
       <companySource ref="arifcrafiq-cnn" />
       <companyTag ref="SupportsIsrael" />
-      <brand name="Max (HBO Max)" />
-      <brand name="HBO" />
-      <brand name="Warner Bros." />
-      <brand name="HGTV" />
-      <brand name="Discovery" />
-      <brand name="discovery+" />
-      <brand name="CNN" />
-      <brand name="TBS" />
-      <brand name="Food Network" />
-      <brand name="TNT" />
-      <brand name="OWN" />
-      <brand name="Investigation Discovery" />
-      <brand name="TLC" />
-      <brand name="DC Comics" />
-      <brand name="Warner Bros. Television Group" />
-      <brand name="Warner Bros. Pictures" />
-      <brand name="Eurosport" />
-      <brand name="Magnolia Network" />
-      <brand name="Cooking Channel" />
-      <brand name="Warner Bros. Games" />
-      <brand name="Animal Planet" />
-      <brand name="Warner Bros. Discovery Sports" />
       <brand name="Adult Swim" />
-      <brand name="HLN" />
-      <brand name="Cartoon Network" />
-      <brand name="New Line Cinema" />
-      <brand name="Golf Digest" />
-      <brand name="Travel Channel (Trvl)" />
-      <brand name="Hogar HGTV" />
-      <brand name="OneFifty (150)" />
-      <brand name="Warner Bros. Pictures Animation" />
-      <brand name="Cartoonito" />
-      <brand name="Quest" />
-      <brand name="Quest Red" />
-      <brand name="Discovery en Español" />
-      <brand name="TruTV" />
-      <brand name="Cinemax" />
-      <brand name="MotorTrend" />
-      <brand name="TVN" />
-      <brand name="Science Channel" />
       <brand name="American Heroes Channel" />
+      <brand name="Animal Planet" />
       <brand name="Asian Food Network" />
       <brand name="Bleacher Report" />
-      <brand name="Destination America" />
-      <brand name="TNT Sports" />
-      <brand name="Turner Classic Movies/TCM" />
-      <brand name="Discovery Family Channel" />
+      <brand name="Boing" />
       <brand name="Boomerang" />
-      <brand name="DMAX" />
-      <brand name="Real Time" />
-      <brand name="Giallo" />
-      <brand name="Frisbee (TV channel)" />
-      <brand name="K2" />
-      <brand name="Frii" />
-      <brand name="Nove" />
       <brand name="Canal 9" />
+      <brand name="Cartoon Network" />
+      <brand name="Cartoonito" />
+      <brand name="Cinemax" />
+      <brand name="CNN" />
+      <brand name="Cooking Channel" />
+      <brand name="DC Comics" />
+      <brand name="Destination America" />
+      <brand name="Discovery en Español" />
       <brand name="Discovery Familia" />
+      <brand name="Discovery Family Channel" />
+      <brand name="Discovery Life" />
+      <brand name="Discovery" />
+      <brand name="discovery+" />
+      <brand name="DMAX" />
+      <brand name="Eurosport" />
+      <brand name="Food Network" />
+      <brand name="Frii" />
+      <brand name="Frisbee (TV channel)" />
+      <brand name="Giallo" />
+      <brand name="Golf Digest" />
+      <brand name="HBO" />
+      <brand name="HGTV" />
+      <brand name="HLN" />
+      <brand name="Hogar HGTV" />
+      <brand name="Investigation Discovery" />
+      <brand name="K2" />
+      <brand name="Magnolia Network" />
+      <brand name="Max (HBO Max)" />
+      <brand name="Mondo TV" />
+      <brand name="MotorTrend" />
+      <brand name="New Line Cinema" />
+      <brand name="Nove" />
+      <brand name="OneFifty (150)" />
+      <brand name="OWN" />
+      <brand name="Pogo" />
+      <brand name="Quest Red" />
+      <brand name="Quest" />
+      <brand name="Real Time" />
+      <brand name="Rooster Teeth" />
+      <brand name="Science Channel" />
       <brand name="Space" />
       <brand name="TABI Channel" />
-      <brand name="Discovery Life" />
-      <brand name="Pogo" />
-      <brand name="Mondo TV" />
+      <brand name="TBS" />
+      <brand name="TLC" />
+      <brand name="TNT Sports" />
+      <brand name="TNT" />
       <brand name="Tooncast" />
-      <brand name="Rooster Teeth" />
+      <brand name="Travel Channel (Trvl)" />
+      <brand name="TruTV" />
+      <brand name="Turner Classic Movies/TCM" />
+      <brand name="TVN" />
+      <brand name="Warner Bros. Discovery Sports" />
+      <brand name="Warner Bros. Games" />
+      <brand name="Warner Bros. Pictures Animation" />
+      <brand name="Warner Bros. Pictures" />
+      <brand name="Warner Bros. Television Group" />
+      <brand name="Warner Bros." />
       <brand name="Warner TV" />
-      <brand name="Boing" />
     </company>
     <company name="Chevron">
       <companySource ref="chevron-israel" />
@@ -1992,55 +1960,55 @@
     <company name="Keurig Dr Pepper">
       <companySource ref="schweppes-israel" />
       <companyTag ref="IsraeliFacilities" />
-      <brand name="Dr Pepper" />
       <brand name="7UP" />
-      <brand name="Crush" />
-      <brand name="Sun Drop" />
-      <brand name="Canada Dry" />
-      <brand name="Sunkist" />
-      <brand name="Squirt" />
-      <brand name="Mott's Clamato" />
-      <brand name="Mott's" />
-      <brand name="Schweppes" />
-      <brand name="Hawaiian Punch" />
-      <brand name="ReaLemon" />
-      <brand name="Snapple" />
-      <brand name="Core Hydration" />
-      <brand name="Yoo-hoo" />
-      <brand name="RC Cola" />
       <brand name="A&amp;W root beer" />
       <brand name="Bai" />
+      <brand name="Barista Prima Coffeehouse" />
       <brand name="Big Red" />
-      <brand name="Vernors" />
-      <brand name="Venom Energy" />
-      <brand name="Stewart's" />
-      <brand name="Nantucket Nectars" />
+      <brand name="Cactus Cooler" />
+      <brand name="Café Escapes" />
+      <brand name="Canada Dry" />
+      <brand name="Caribou Coffee" />
+      <brand name="Cinnabon coffee" />
+      <brand name="Core Hydration" />
+      <brand name="Crush" />
+      <brand name="Dr Pepper" />
+      <brand name="Emeril's coffee" />
+      <brand name="Gloria Jean's Coffees" />
+      <brand name="Green Mountain Coffee Roasters" />
+      <brand name="Hawaiian Punch" />
+      <brand name="IBC Root Beer" />
+      <brand name="Kahlúa Original Coffee" />
+      <brand name="Keurig" />
+      <brand name="Krispy Kreme Doughnuts Coffee" />
+      <brand name="Limitless" />
+      <brand name="Margaritaville" />
+      <brand name="McCafe coffee" />
+      <brand name="Mistic" />
+      <brand name="Mott's Clamato" />
+      <brand name="Mott's" />
       <brand name="Mott's" />
       <brand name="Mr &amp; Mrs T" />
-      <brand name="IBC Root Beer" />
-      <brand name="Limitless" />
-      <brand name="Cactus Cooler" />
-      <brand name="Margaritaville" />
-      <brand name="Rose's" />
-      <brand name="Xyience Energy" />
-      <brand name="Mistic" />
-      <brand name="Panafiel" />
-      <brand name="Keurig" />
-      <brand name="Green Mountain Coffee Roasters" />
-      <brand name="Swiss Miss" />
-      <brand name="Barista Prima Coffeehouse" />
-      <brand name="Tully's Coffee" />
-      <brand name="The Original Donut Shop Coffee" />
-      <brand name="Krispy Kreme Doughnuts Coffee" />
-      <brand name="McCafe coffee" />
-      <brand name="Cinnabon coffee" />
-      <brand name="Revv Coffee" />
-      <brand name="Café Escapes" />
-      <brand name="Gloria Jean's Coffees" />
-      <brand name="Caribou Coffee" />
-      <brand name="Emeril's coffee" />
+      <brand name="Nantucket Nectars" />
       <brand name="Newman's Own Organic coffee" />
-      <brand name="Kahlúa Original Coffee" />
+      <brand name="Panafiel" />
+      <brand name="RC Cola" />
+      <brand name="ReaLemon" />
+      <brand name="Revv Coffee" />
+      <brand name="Rose's" />
+      <brand name="Schweppes" />
+      <brand name="Snapple" />
+      <brand name="Squirt" />
+      <brand name="Stewart's" />
+      <brand name="Sun Drop" />
+      <brand name="Sunkist" />
+      <brand name="Swiss Miss" />
+      <brand name="The Original Donut Shop Coffee" />
+      <brand name="Tully's Coffee" />
+      <brand name="Venom Energy" />
+      <brand name="Vernors" />
+      <brand name="Xyience Energy" />
+      <brand name="Yoo-hoo" />
     </company>
     <company name="Energizer Holdings, Inc.">
       <companySource ref="islamicinformation-brands" />
@@ -2086,8 +2054,8 @@
       <brand name="Betnovate" />
       <brand name="Bexsero" />
       <brand name="Blenrep" />
-      <brand name="Boostrix" />
       <brand name="Boostrix IPV" />
+      <brand name="Boostrix" />
       <brand name="Cabenuva" />
       <brand name="Cabenuva/Vocabria + Rekambys" />
       <brand name="Cervarix" />
@@ -2114,8 +2082,8 @@
       <brand name="Imigran/ImITrex FDT" />
       <brand name="Imuran" />
       <brand name="Incruse" />
-      <brand name="Infanrix" />
       <brand name="Infanrix IPV" />
+      <brand name="Infanrix" />
       <brand name="Jemperli" />
       <brand name="Juluca" />
       <brand name="Keppra" />
@@ -2136,8 +2104,8 @@
       <brand name="Nucala" />
       <brand name="Paxil / Seroxat" />
       <brand name="Pediarix" />
-      <brand name="Priorix" />
       <brand name="Priorix-Tetra" />
+      <brand name="Priorix" />
       <brand name="Relenza" />
       <brand name="Relvar/Breo" />
       <brand name="Requip" />
@@ -2179,22 +2147,22 @@
     <company name="Haleon plc">
       <companySource ref="haleon-website" />
       <companyTag ref="IsraeliFacilities" />
-      <brand name="Sensodyne Toothpaste" />
-      <brand name="Polident Denture care" />
-      <brand name="Parodontax Toothpaste" />
+      <brand name="Advil Pain relief" />
       <brand name="Biotene Mouth wash" />
+      <brand name="Caltrate Supplement" />
       <brand name="Centrum Multivitamin" />
       <brand name="Emergen-C Supplement" />
-      <brand name="Caltrate Supplement" />
-      <brand name="Otrivin Nasal drops" />
-      <brand name="Theraflu Cold and Flu Relief" />
-      <brand name="Flonase Allergy relief" />
-      <brand name="Voltaren Anti-inflammatory" />
-      <brand name="Panadol Pain relief" />
-      <brand name="Advil Pain relief" />
-      <brand name="TUMS Antacids" />
       <brand name="ENO Antacid" />
       <brand name="Fenistil Antihistamine" />
+      <brand name="Flonase Allergy relief" />
+      <brand name="Otrivin Nasal drops" />
+      <brand name="Panadol Pain relief" />
+      <brand name="Parodontax Toothpaste" />
+      <brand name="Polident Denture care" />
+      <brand name="Sensodyne Toothpaste" />
+      <brand name="Theraflu Cold and Flu Relief" />
+      <brand name="TUMS Antacids" />
+      <brand name="Voltaren Anti-inflammatory" />
     </company>
     <company name="United Jewish Appeal">
       <companySource ref="ihrc-list" />
@@ -2207,91 +2175,91 @@
     <company name="Fox Corporation">
       <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
-      <brand name="Fox" />
-      <brand name="Fox News" />
-      <brand name="Fox Sports" />
-      <brand name="Fox Entertainment" />
-      <brand name="Tubi" />
-      <brand name="Credible" />
-      <brand name="OutKick" />
       <brand name="Bento Box" />
       <brand name="Blockchain Creative Labs " />
+      <brand name="Credible" />
+      <brand name="Fox Entertainment" />
+      <brand name="Fox News" />
+      <brand name="Fox Sports" />
+      <brand name="Fox" />
       <brand name="MarVista Entertainment" />
+      <brand name="OutKick" />
       <brand name="Studio Ramsay Global Digital" />
       <brand name="TMZ" />
+      <brand name="Tubi" />
     </company>
     <company name="Paramount Global">
       <companySource ref="ihrc-list" />
       <companyTag ref="SupportsIsrael" />
-      <brand name="Paramount Animation" />
-      <brand name="Paramount Home Entertainment" />
-      <brand name="Paramount Players" />
-      <brand name="Paramount Television Studios" />
-      <brand name="Paramount Digital Entertainment" />
-      <brand name="Miramax" />
-      <brand name="Nickelodeon Movies" />
-      <brand name="Viacom18 Studios" />
-      <brand name="The CW" />
-      <brand name="CBS Sports Network" />
-      <brand name="CBS Home Entertainment" />
-      <brand name="CBS Media Ventures" />
-      <brand name="CBS Television Stations" />
-      <brand name="CBS Interactive" />
-      <brand name="CBS Records" />
-      <brand name="CBS EYE Productions" />
-      <brand name="CBS News Radio" />
-      <brand name="CBS Sports" />
-      <brand name="CBSN" />
-      <brand name="CBS News" />
-      <brand name="CBS Sports HQ" />
-      <brand name="CBS Watch" />
-      <brand name="CBS Studios" />
-      <brand name="Nickelodeon" />
-      <brand name="Nick Jr." />
-      <brand name="Nicktoons" />
-      <brand name="NickMusic" />
-      <brand name="Nick at Nite" />
-      <brand name="TeenNick" />
-      <brand name="Nickelodeon Magazine" />
-      <brand name="Nickelodeon Productions" />
-      <brand name="Nickelodeon Animation Studio" />
-      <brand name="MTV" />
-      <brand name="MTV2" />
-      <brand name="MTV Entertainment Studios" />
-      <brand name="VH1" />
-      <brand name="CMT" />
-      <brand name="CMT Music" />
-      <brand name="Paramount Network" />
-      <brand name="Comedy Central" />
-      <brand name="Logo" />
-      <brand name="Pop" />
-      <brand name="Comedy Central Records" />
-      <brand name="Showtime" />
-      <brand name="BET" />
       <brand name="BET Gospel" />
       <brand name="BET Her" />
       <brand name="BET Jams" />
       <brand name="BET Soul" />
-      <brand name="The Movie Channel" />
-      <brand name="Network 10" />
-      <brand name="Chilevisión" />
-      <brand name="Telefe" />
-      <brand name="Telefe Internacional" />
-      <brand name="Colors" />
+      <brand name="BET" />
+      <brand name="CBS EYE Productions" />
+      <brand name="CBS Home Entertainment" />
+      <brand name="CBS Interactive" />
+      <brand name="CBS Media Ventures" />
+      <brand name="CBS News Radio" />
+      <brand name="CBS News" />
+      <brand name="CBS Records" />
+      <brand name="CBS Sports HQ" />
+      <brand name="CBS Sports Network" />
+      <brand name="CBS Sports" />
+      <brand name="CBS Studios" />
+      <brand name="CBS Television Stations" />
+      <brand name="CBS Watch" />
+      <brand name="CBSN" />
       <brand name="Channel 5" />
-      <brand name="ViacomCBS International Studios" />
-      <brand name="Paramount Streaming logo" />
-      <brand name="Paramount+" />
-      <brand name="Noggin" />
-      <brand name="Voot" />
-      <brand name="Pluto TV" />
-      <brand name="VidCon" />
-      <brand name="Viacom Velocity" />
-      <brand name="Viacom Vantage" />
-      <brand name="Paws, Inc." />
-      <brand name="Rainbow" />
+      <brand name="Chilevisión" />
+      <brand name="CMT Music" />
+      <brand name="CMT" />
+      <brand name="Colors" />
+      <brand name="Comedy Central Records" />
+      <brand name="Comedy Central" />
+      <brand name="Logo" />
       <brand name="Mirage Studios" />
+      <brand name="Miramax" />
+      <brand name="MTV Entertainment Studios" />
+      <brand name="MTV" />
+      <brand name="MTV2" />
+      <brand name="Network 10" />
+      <brand name="Nick at Nite" />
+      <brand name="Nick Jr." />
+      <brand name="Nickelodeon Animation Studio" />
+      <brand name="Nickelodeon Magazine" />
+      <brand name="Nickelodeon Movies" />
+      <brand name="Nickelodeon Productions" />
+      <brand name="Nickelodeon" />
+      <brand name="NickMusic" />
+      <brand name="Nicktoons" />
+      <brand name="Noggin" />
+      <brand name="Paramount Animation" />
       <brand name="Paramount Consumer Products" />
+      <brand name="Paramount Digital Entertainment" />
+      <brand name="Paramount Home Entertainment" />
+      <brand name="Paramount Network" />
+      <brand name="Paramount Players" />
+      <brand name="Paramount Streaming logo" />
+      <brand name="Paramount Television Studios" />
+      <brand name="Paramount+" />
+      <brand name="Paws, Inc." />
+      <brand name="Pluto TV" />
+      <brand name="Pop" />
+      <brand name="Rainbow" />
+      <brand name="Showtime" />
+      <brand name="TeenNick" />
+      <brand name="Telefe Internacional" />
+      <brand name="Telefe" />
+      <brand name="The CW" />
+      <brand name="The Movie Channel" />
+      <brand name="VH1" />
+      <brand name="Viacom Vantage" />
+      <brand name="Viacom Velocity" />
+      <brand name="Viacom18 Studios" />
+      <brand name="ViacomCBS International Studios" />
+      <brand name="VidCon" />
+      <brand name="Voot" />
     </company>
     <company name="Caterpillar">
       <companySource ref="ihrc-list" />
@@ -2314,20 +2282,89 @@
       <companySource ref="kimberlyclark-israel" />
       <companyTag ref="IsraeliFacilities" />
       <brand name="Cotex" />
-      <brand name="Depends" />
-      <brand name="Poise" />
-      <brand name="Kleenex" />
-      <brand name="Scott" />
-      <brand name="Viva" />
       <brand name="Cottonelle" />
-      <brand name="Wondersoft" />
-      <brand name="Thick &amp; Thirsty" />
-      <brand name="Huggies" />
-      <brand name="Huggies Pullups" />
+      <brand name="Depends" />
       <brand name="Huggies DryNites" />
       <brand name="Huggies GoodNites" />
       <brand name="Huggies Little swimmers" />
+      <brand name="Huggies Pullups" />
+      <brand name="Huggies" />
+      <brand name="Kleenex" />
+      <brand name="Poise" />
+      <brand name="Scott" />
+      <brand name="Thick &amp; Thirsty" />
+      <brand name="Viva" />
+      <brand name="Wondersoft" />
     </company>
+    <company name="General Mills, Inc.">
+      <companySource ref="cpw-generalmills" />
+      <companyTag ref="NestlePartner" />
+      <brand name="Annie's" />
+      <brand name="Autumn's Gold" />
+      <brand name="Betty Crocker" />
+      <brand name="Bisquick" />
+      <brand name="Blue Buffalo" />
+      <brand name="Boo Berry" />
+      <brand name="Bugles" />
+      <brand name="Cascadian Farm" />
+      <brand name="Cheerios" />
+      <brand name="Chex Cereal" />
+      <brand name="Chex Mix" />
+      <brand name="Cinnamon Toast Crunch" />
+      <brand name="Cocoa Puffs" />
+      <brand name="Cookie Crisp" />
+      <brand name="Count Chocula" />
+      <brand name="Dunkaroos" />
+      <brand name="EPIC snacks" />
+      <brand name="Fiber One" />
+      <brand name="Franken Berry" />
+      <brand name="Gardetto's" />
+      <brand name="Gold Medal Flour" />
+      <brand name="Golden Grahams" />
+      <brand name="Good Measure snacks" />
+      <brand name="Green Giant" />
+      <brand name="Häagen-Dazs" />
+      <brand name="Jeno's" />
+      <brand name="Jus-Rol" />
+      <brand name="Kix" />
+      <brand name="Larabar" />
+      <brand name="Latina Fresh" />
+      <brand name="Liberté" />
+      <brand name="Lucky Charms" />
+      <brand name="Monster Cereals" />
+      <brand name="Muir Glen" />
+      <brand name="Nature Valley" />
+      <brand name="Old El Paso" />
+      <brand name="Oui yogurt" />
+      <brand name="Pillsbury" />
+      <brand name="Progresso soups" />
+      <brand name="Raisin Nut Bran" />
+      <brand name="Ratio Food" />
+      <brand name="Reese's Puffs" />
+      <brand name="Total" />
+      <brand name="Totino's" />
+      <brand name="Trix" />
+      <brand name="Wanchai Ferry" />
+      <brand name="Wheaties" />
+      <brand name="Yoki" />
+      <brand name="Yoplait" />
+    </company>
+    <company name="Nestlé Cereals/Cereal Partners Worldwide">
+      <companySource ref="cpw-generalmills" />
+      <companyTag ref="NestlePartner" />
+      <brand name="Cheerios" />
+      <brand name="Chocapic" />
+      <brand name="Cini Minis" />
+      <brand name="Corn Flakes" />
+      <brand name="Fitness" />
+      <brand name="KitKat Cereal" />
+      <brand name="Koko Krunch" />
+      <brand name="Lion Cereals" />
+      <brand name="Nesquick Cereal" />
+      <brand name="Shredded Wheat" />
+      <brand name="Shreddies" />
+    </company>
+
     <!--
     <company name="">
       <companySource ref="" />
@@ -2337,113 +2374,71 @@
   </companies>
 
   <sources>
-    <source id="bds-what-to-boycott" url="https://bdsmovement.net/get-involved/what-to-boycott">
-      bdsmovement.net</source>
+    <source id="abcnews-starbucks" url="https://abcnews.go.com/Business/companies-starbucks-mcdonalds-face-controversy-amid-israel-hamas/story?id=104219615">abcnews.go.com</source>
+    <source id="aclu-labor-report" url="https://www.aclu.org/wp-content/uploads/legal-documents/2022-06-15-captivelaborresearchreport.pdf">aclu.org</source>
+    <source id="adage-billboard" url="https://adage.com/article/digital-marketing-ad-tech-news/israel-hamas-war-how-brands-ad-tech-firms-agencies-are-responding/2521656">adage.com</source>
+    <source id="ae-israel" url="https://storelocations.ae.com/il">ae.com</source>
+    <source id="allisraelinews-lego" url="https://allisrael.com/israel-s-first-official-lego-store-opens-in-israel">allisrael.com</source>
+    <source id="amika-israel" url="https://www.loveamika.co.il/contact/">loveamika.co.il</source>
+    <source id="apnews-sweetgreen" url="https://apnews.com/article/israel-hamas-war-palestinians-companies-harvard-daecf3a387a689339dc41f35b773e063">apnews.com</source>
+    <source id="arifcrafiq-cnn" url="https://twitter.com/ArifCRafiq/status/1721258414448222677">@ArifCRafiq</source>
+    <source id="baby2baby-israel" url="https://www.linkedin.com/posts/baby2baby_baby2baby-has-over-half-a-million-emergency-activity-7121249732563275776-MOVn">baby2baby</source>
     <source id="bds-puma" url="https://bdsmovement.net/boycott-puma">bdsmovement.net</source>
-    <source id="disney-donate"
-      url="https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/">
-      thewaltdisneycompany.com</source>
-    <source id="aclu-labor-report"
-      url="https://www.aclu.org/wp-content/uploads/legal-documents/2022-06-15-captivelaborresearchreport.pdf">Captive
-      Labor: Exploitation of Incarcerated Workers</source>
-    <source id="pbs-chanel"
-      url="https://www.pbs.org/wgbh/roadshow/stories/articles/2022/1/3/coco-chanel-fashion-designer-and-nazi-informant">Coco
-      Chanel: Fashion Designer, Nazi Informant</source>
-    <source id="islamicinformation-brands"
-      url="https://theislamicinformation.com/news/list-of-brands-supporting-israel/#comment-5472">
-      theislamicinformation.com</source>
-    <source id="dole-hawaii"
-      url="https://www.ksbe.edu/assets/pdfs/The_Overthrow_of_the_Hawaiian_Monarchy_PDF.pdf">The
-      Overthrow of the Hawaiian Monarchy</source>
+    <source id="bds-what-to-boycott" url="https://bdsmovement.net/get-involved/what-to-boycott">bdsmovement.net</source>
+    <source id="blushing-giraffe" url="http://www.theblushinggiraffe.com/">theblushinggiraffe.com</source>
+    <source id="bnn-donations" url="https://bnn.network/breaking-news/social/global-donations-from-corporations-like-disney-chanel-fox-to-israel-spark-controversy/">bnn.network</source>
+    <source id="bnn-kardashian" url="https://bnn.network/arts/kardashian-family-voices-support-for-israel-amidst-conflict/">bnn.network</source>
+    <source id="businessinsider-amazon" url="https://www.businessinsider.com/amazon-owns-these-brands-list-2018-7?op=1">businessinsider.com</source>
+    <source id="businessinsider-mcdonalds" url="https://www.businessinsider.com/mcdonalds-donating-thousands-meals-idf-israeli-citizens-hamas-attacks-2023?op=1">businessinsider.com</source>
+    <source id="chevron-israel" url="https://israel.chevron.com/en/about">israel.chevron.com</source>
+    <source id="cocacola-israel" url="https://blogs.timesofisrael.com/coca-colas-new-bridge-to-israel/">Coca-Cola’s New "Bridge" to Israel</source>
+    <source id="cpw-generalmills" url="https://www.nestle-cereals.com/global/our-promises/about-cpw">Cereal Partners Worldwide </source>
+    <source id="disney-donate" url="https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/">thewaltdisneycompany.com</source>
+    <source id="dole-hawaii" url="https://www.ksbe.edu/assets/pdfs/The_Overthrow_of_the_Hawaiian_Monarchy_PDF.pdf">ksbe.edu</source>
+    <source id="ethicalconsumer-amazon" url="https://www.ethicalconsumer.org/ethicalcampaigns/boycott-amazon">ethicalconsumer.org</source>
+    <source id="foodprocessing-israel" url="https://www.foodprocessing-technology.com/news/mondelez-internationals-snackfutures-invests-in-food-tech-startup-torr/">foodprocessing-technology.com</source>
+    <source id="ford-israel" url="https://ford-israel.co.il/">ford-israel.co.il</source>
+    <source id="greenleft-loreal" url="https://www.greenleft.org.au/content/boycott-loreal-because-palestine-worth-it">greenleft.org.au</source>
     <source id="gsk-website" url="https://www.gsk.com">GSK.com</source>
     <source id="haleon-website" url="https://www.haleon.com">haleon.com</source>
-    <source id="businessinsider-mcdonalds"
-      url="https://www.businessinsider.com/mcdonalds-donating-thousands-meals-idf-israeli-citizens-hamas-attacks-2023?op=1">Business
-      Insider</source>
-    <source id="abcnews-starbucks"
-      url="https://abcnews.go.com/Business/companies-starbucks-mcdonalds-face-controversy-amid-israel-hamas/story?id=104219615">ABC
-      News</source>
-    <source id="ethicalconsumer-amazon"
-      url="https://www.ethicalconsumer.org/ethicalcampaigns/boycott-amazon">ethicalconsumer.org</source>
-    <source id="businessinsider-amazon"
-      url="https://www.businessinsider.com/amazon-owns-these-brands-list-2018-7?op=1">Amazon owns
-      more than 80 private-label brands</source>
-    <source id="investopedia-amazon"
-      url="https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp">6
-      Companies Owned by Amazon</source>
-    <source id="nike-israel" url="https://www.nike.com/il">Nike Israel</source>
-    <source id="revlon-israel" url="https://www.instagram.com/revlon_israel/">@revlon_israel</source>
-    <source id="loreal-israel" url="https://www.loreal.com/en/israel/">loreal.com</source>
-    <source id="jnj-israel" url="https://www.jnjcareers.co.il/en">jnjcareers.co.il</source>
-    <source id="cocacola-israel" url="https://blogs.timesofisrael.com/coca-colas-new-bridge-to-israel/">Coca-Cola’s New "Bridge" to Israel</source>
-    <source id="timesofisrael-unilever"
-      url="https://www.timesofisrael.com/liveblog_entry/unilever-chief-says-company-fully-committed-to-israel/">Unilever
-      chief says company 'fully committed' to Israel</source>
-    <source id="wwd-victoriassecret"
-      url="https://wwd.com/feature/victorias-secret-israel-stores-1234687243/">Victoria's Secret,
-      Bath &amp; Body Works Expanding to Israel</source>
-    <source id="ihrc-list" url="https://www.ihrc.org.uk/boycott-genocide/">Islamic Human Rights
-      Commission</source>
-    <source id="skims-instagram" url="https://www.instagram.com/p/CyRnmHgvhgv/?img_index=1">
-      @kimkardashian</source>
-    <source id="hilfiger-twitter" url="https://twitter.com/MiddleEastMnt/status/1711664103637287032">
-      @MiddleEastMnt</source>
-    <source id="bnn-kardashian"
-      url="https://bnn.network/arts/kardashian-family-voices-support-for-israel-amidst-conflict/">Kardashian
-      Family Voices Support for Israel Amidst Conflict</source>
-    <source id="ae-israel" url="https://storelocations.ae.com/il">ae.com</source>
-    <source id="sunnahonline-pg"
-      url="https://sunnahonline.com/library/contemporary-issues/41-palestine-and-israel/748-boycott-israel-who-and-why#h5-6-procter-amp-gamble">
-      sunnahonline.com</source>
-    <source id="israelhayom-hardees"
-      url="https://www.israelhayom.com/2021/12/03/hardees-promises-to-give-israelis-something-to-chew-on/">
-      israelhayom.com</source>
-    <source id="adage-billboard"
-      url="https://adage.com/article/digital-marketing-ad-tech-news/israel-hamas-war-how-brands-ad-tech-firms-agencies-are-responding/2521656">
-      adage.com</source>
-    <source id="heritagefl-walmart"
-      url="https://www.heritagefl.com/story/2023/11/10/news/walmart-stands-with-israel/19050.html">WalMart
-      stands with Israel</source>
-    <source id="loreal-israel" url="https://www.loreal.com/en/israel/">loreal.com</source>
-    <source id="greenleft-loreal"
-      url="https://www.greenleft.org.au/content/boycott-loreal-because-palestine-worth-it">
-      greenleft.org.au</source>
-    <source id="blushing-giraffe" url="http://www.theblushinggiraffe.com/">theblushinggiraffe.com</source>
-    <source id="pringles-israel" url="https://www.pringles.com/il/home.html">pringles.com/il</source>
-    <source id="nokia-israel" url="https://www.nokia.com/contact-us/offices/#europe">nokia.com</source>
-    <source id="motorola-israel" url="https://www.motorolasolutions.com/newsroom/press-releases/motorola-solutions-launches-innovation-center-in-israel.html">
-      motorolasolutions.com</source>
-    <source id="arifcrafiq-cnn" url="https://twitter.com/ArifCRafiq/status/1721258414448222677">
-      @ArifCRafiq</source>
-    <source id="mayniaga-drpepper"
-      url="https://www.mayniaga.com/dr-pepper-israel-support-what-you-need-to-know/"></source>
-    <source id="allisraelinews-lego"
-      url="https://allisrael.com/israel-s-first-official-lego-store-opens-in-israel">allisrael.com</source>
-    <source id="amika-israel" url="https://www.loveamika.co.il/contact/">loveamika.co.il</source>
-    <source id="straussgroup-israel" url="https://www.strauss-group.com/location/strauss_israel/">strauss-group.com</source>
-    <source id="foodprocessing-israel" url="https://www.foodprocessing-technology.com/news/mondelez-internationals-snackfutures-invests-in-food-tech-startup-torr/">foodprocessing-technology.com</source>
-    <source id="reuters-osem" url="https://www.reuters.com/article/us-osem-investments-m-a-nestle-idUSKCN0VD0Y5/">reuters.com</source>
-    <source id="bnn-donations" url="https://bnn.network/breaking-news/social/global-donations-from-corporations-like-disney-chanel-fox-to-israel-spark-controversy/">bnn.network</source>
-    <source id="mars-israel" url="https://www.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners">mars.com</source>
-    <source id="ford-israel" url="https://ford-israel.co.il/">ford-israel.co.il</source>
-    <source id="chevron-israel" url="https://israel.chevron.com/en/about">israel.chevron.com</source>
-    <source id="schweppes-israel" url="https://www.schweppes.co.il/contact/">schweppes.co.il</source>
-    <source id="ohchr-israel" url="https://www.ohchr.org/en/press-releases/2020/02/un-rights-office-issues-report-business-activities-related-settlements?LangID=E&amp;NewsID=25542">ohchr.org</source>
+    <source id="heritagefl-walmart" url="https://www.heritagefl.com/story/2023/11/10/news/walmart-stands-with-israel/19050.html">WalMart stands with Israel</source>
+    <source id="hilfiger-twitter" url="https://twitter.com/MiddleEastMnt/status/1711664103637287032">@MiddleEastMnt</source>
     <source id="ibm-israel" url="https://www.ibm.com/planetwide/il/">ibm.com</source>
+    <source id="ihrc-list" url="https://www.ihrc.org.uk/boycott-genocide/">Islamic Human Rights Commission</source>
     <source id="ihrc-ms" url="https://www.ihrc.org.uk/briefing-a-brief-chronology-of-the-marks-spencer-israel-relationship/">ohchr.org</source>
+    <source id="investopedia-amazon" url="https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp">6 Companies Owned by Amazon</source>
+    <source id="islamicinformation-brands" url="https://theislamicinformation.com/news/list-of-brands-supporting-israel/#comment-5472">theislamicinformation.com</source>
+    <source id="israelhayom-hardees" url="https://www.israelhayom.com/2021/12/03/hardees-promises-to-give-israelis-something-to-chew-on/">israelhayom.com</source>
+    <source id="jnj-israel" url="https://www.jnjcareers.co.il/en">jnjcareers.co.il</source>
     <source id="jns-letter" url="https://www.jns.org/hollywood-celebs-urge-biden-to-ensure-release-of-israeli-hostages/">jns.org</source>
-    <source id="baby2baby-israel" url="https://www.linkedin.com/posts/baby2baby_baby2baby-has-over-half-a-million-emergency-activity-7121249732563275776-MOVn">baby2baby</source>
-    <source id="apnews-sweetgreen" url="https://apnews.com/article/israel-hamas-war-palestinians-companies-harvard-daecf3a387a689339dc41f35b773e063">apnews.com</source>
     <source id="kimberlyclark-israel" url="https://www.kimberly-clark.co.il/il/contact.aspx">kimberly-clark.co.il</source>
+    <source id="loreal-israel" url="https://www.loreal.com/en/israel/">loreal.com</source>
+    <source id="mars-israel" url="https://www.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners">mars.com</source>
+    <source id="mayniaga-drpepper" url="https://www.mayniaga.com/dr-pepper-israel-support-what-you-need-to-know/"></source>
+    <source id="motorola-israel" url="https://www.motorolasolutions.com/newsroom/press-releases/motorola-solutions-launches-innovation-center-in-israel.html">motorolasolutions.com</source>
+    <source id="nike-israel" url="https://www.nike.com/il">Nike Israel</source>
+    <source id="nokia-israel" url="https://www.nokia.com/contact-us/offices/#europe">nokia.com</source>
+    <source id="ohchr-israel" url="https://www.ohchr.org/en/press-releases/2020/02/un-rights-office-issues-report-business-activities-related-settlements?LangID=E&amp;NewsID=25542">ohchr.org</source>
+    <source id="pbs-chanel" url="https://www.pbs.org/wgbh/roadshow/stories/articles/2022/1/3/coco-chanel-fashion-designer-and-nazi-informant">pbs.org</source>
+    <source id="pringles-israel" url="https://www.pringles.com/il/home.html">pringles.com/il</source>
+    <source id="reuters-osem" url="https://www.reuters.com/article/us-osem-investments-m-a-nestle-idUSKCN0VD0Y5/">reuters.com</source>
+    <source id="revlon-israel" url="https://www.instagram.com/revlon_israel/">@revlon_israel</source>
+    <source id="schweppes-israel" url="https://www.schweppes.co.il/contact/">schweppes.co.il</source>
+    <source id="skims-instagram" url="https://www.instagram.com/p/CyRnmHgvhgv/?img_index=1"> @kimkardashian</source>
+    <source id="straussgroup-israel" url="https://www.strauss-group.com/location/strauss_israel/">strauss-group.com</source>
+    <source id="sunnahonline-pg" url="https://sunnahonline.com/library/contemporary-issues/41-palestine-and-israel/748-boycott-israel-who-and-why#h5-6-procter-amp-gamble">sunnahonline.com</source>
+    <source id="timesofisrael-unilever" url="https://www.timesofisrael.com/liveblog_entry/unilever-chief-says-company-fully-committed-to-israel/">timesofisrael.com</source>
+    <source id="wwd-victoriassecret" url="https://wwd.com/feature/victorias-secret-israel-stores-1234687243/">wwd.com</source>
   </sources>
 
   <tags>
-    <tag id="PriorityBoycott">Priority Boycott</tag>
-    <tag id="SupportsIsrael">Supports Israel</tag>
-    <tag id="IsraeliFacilities">Israeli Facilities</tag>
-    <tag id="PrisonLabor">Prison Labor</tag>
-    <tag id="NaziMoney">Nazi Money</tag>
     <tag id="Imperialism">Imperialism</tag>
+    <tag id="IsraeliFacilities">Israeli Facilities</tag>
     <tag id="LaborPractices">Labor Practices</tag>
+    <tag id="NaziMoney">Nazi Money</tag>
+    <tag id="NestlePartner">Nestlé Partner</tag>
+    <tag id="PriorityBoycott">Priority Boycott</tag>
+    <tag id="PrisonLabor">Prison Labor</tag>
+    <tag id="SupportsIsrael">Supports Israel</tag>
   </tags>
 </root>
