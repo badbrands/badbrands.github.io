@@ -1,4 +1,5 @@
 <root>
+  <updated id="lastupdate" date="Dec 21, 2023">Major updates, dozens of brands added</updated>
   <companies>
     <company name="Hewlett Packard Enterprise/HPE">
       <companySource ref="bds-what-to-boycott" />
@@ -89,9 +90,11 @@
     </company>
     <company name="Fosun International Limited">
       <companySource ref="bds-what-to-boycott" />
+      <companySource ref="haaretz-ahava" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="IsraeliFacilities" />
       <brand name="Ahava Cosmetics" />
+      <brand name="Club Med resorts" />
     </company>
     <company name="Walt Disney Company">
       <companySource ref="ihrc-list" />
@@ -2364,16 +2367,434 @@
       <brand name="Shredded Wheat" />
       <brand name="Shreddies" />
     </company>
+    <company name="80 Acres Farms">
+      <companySource ref="jewishcincinnati-80acres" />
+      <companyTag ref="IdfStaff" />
+    </company>
+    <company name="Adobe">
+      <companySource ref="businessinsider-adobe" />
+      <companyTag ref="IsraeliPropaganda" />
+      <brand name="Acrobat" />
+      <brand name="After Effects" />
+      <brand name="InDesign" />
+      <brand name="Illustrator" />
+      <brand name="Photoshop" />
+      <brand name="Premiere" />
+    </company>
+    <company name="eBay">
+      <companyTag ref="IsraeliFacilities" />
+      <companySource ref="ebay-israel" />
+    </company>
+    <company name="Bright Foods">
+      <companySource ref="reuters-brightfood" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="Tnuva" />
+      <brand name="Manassen" />
+      <brand name="Salov" />
+      <brand name="Filippo Berio" />
+      <brand name="Sagra" />
+    </company>
+    <company name="Henkel AG &amp; Co. KGaA">
+      <companySource ref="henkel-israel" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="Alexander Style" />
+      <brand name="All" />
+      <brand name="Alterna Haircare" />
+      <brand name="Authentic Beauty Concept" />
+      <brand name="Bain De Terre" />
+      <brand name="Barnaengen" />
+      <brand name="Bc Bonacure" />
+      <brand name="Beology" />
+      <brand name="Better Natured" />
+      <brand name="Big D" />
+      <brand name="Bio Presto" />
+      <brand name="Blonde" />
+      <brand name="Blondme" />
+      <brand name="Bloom" />
+      <brand name="Blue Star" />
+      <brand name="Boston" />
+      <brand name="Bref Sonasol Wc" />
+      <brand name="Bref Wc" />
+      <brand name="Brillance" />
+      <brand name="Bruynzeel" />
+      <brand name="Catch" />
+      <brand name="Clin" />
+      <brand name="Coldpower" />
+      <brand name="Color And Art" />
+      <brand name="Color Expert" />
+      <brand name="Colour Catcher" />
+      <brand name="Combat" />
+      <brand name="Conejo" />
+      <brand name="Country Colors" />
+      <brand name="Croc Odor" />
+      <brand name="Cucal" />
+      <brand name="Dac" />
+      <brand name="Dato" />
+      <brand name="Decapfour" />
+      <brand name="Deni" />
+      <brand name="Der General" />
+      <brand name="Diadem" />
+      <brand name="Dial" />
+      <brand name="Dixan" />
+      <brand name="Dixi" />
+      <brand name="Drago" />
+      <brand name="Dum Dum" />
+      <brand name="Dylon" />
+      <brand name="Dynamo" />
+      <brand name="E Detergents" />
+      <brand name="Eau Ecarlate" />
+      <brand name="Eparcyl" />
+      <brand name="Essensity" />
+      <brand name="Estrella" />
+      <brand name="Fa" />
+      <brand name="Fab" />
+      <brand name="Fewa" />
+      <brand name="Fibreplex" />
+      <brand name="Fleuril" />
+      <brand name="Fresh Light" />
+      <brand name="Gliss" />
+      <brand name="Göt2b" />
+      <brand name="Göt2b" />
+      <brand name="Havu Mäntysuopa" />
+      <brand name="Hawaii" />
+      <brand name="Henkel Colour Specialist" />
+      <brand name="Hidra" />
+      <brand name="Home Mat" />
+      <brand name="Hurricane" />
+      <brand name="Iba" />
+      <brand name="Igora" />
+      <brand name="Indola" />
+      <brand name="Instanet" />
+      <brand name="Ipro" />
+      <brand name="Joico" />
+      <brand name="K2r" />
+      <brand name="Kenra Professional" />
+      <brand name="Kindness" />
+      <brand name="Kit Racines" />
+      <brand name="Konzil" />
+      <brand name="Küül Color System" />
+      <brand name="La Toja" />
+      <brand name="Le Chat" />
+      <brand name="Live" />
+      <brand name="Losk" />
+      <brand name="Lysoform" />
+      <brand name="Magno" />
+      <brand name="Maison Verte" />
+      <brand name="Mas" />
+      <brand name="Men Perfect" />
+      <brand name="Micolor" />
+      <brand name="Mini Risk" />
+      <brand name="Mir" />
+      <brand name="Miror" />
+      <brand name="More Info" />
+      <brand name="My Dentity @ Guy Tang" />
+      <brand name="Natural &amp; Easy" />
+      <brand name="Natural Beauty Care" />
+      <brand name="Natural Styling" />
+      <brand name="Nature Box" />
+      <brand name="Nelsen" />
+      <brand name="Neutrex" />
+      <brand name="Nordic Blonde" />
+      <brand name="Oil Ultime" />
+      <brand name="Only Love" />
+      <brand name="Osis" />
+      <brand name="Osis+ Session Label" />
+      <brand name="Oust" />
+      <brand name="Paon Essence Rich" />
+      <brand name="Patrice" />
+      <brand name="Perfect Mousse" />
+      <brand name="Perlan" />
+      <brand name="Perlana" />
+      <brand name="Persil" />
+      <brand name="Pert" />
+      <brand name="Perwoll" />
+      <brand name="Pesil Greece" />
+      <brand name="Poly Color" />
+      <brand name="Pravana" />
+      <brand name="Pril" />
+      <brand name="Pro Nature" />
+      <brand name="Pur" />
+      <brand name="Pure Color" />
+      <brand name="Purex" />
+      <brand name="Re-Nature" />
+      <brand name="Renuzit" />
+      <brand name="Rex" />
+      <brand name="Sard" />
+      <brand name="Schauma" />
+      <brand name="Schwarzkopf" />
+      <brand name="Schwarzkopf Palette" />
+      <brand name="Seah" />
+      <brand name="Sexy Hair" />
+      <brand name="Shamtu" />
+      <brand name="Sidol" />
+      <brand name="Silan" />
+      <brand name="Silhouette" />
+      <brand name="Sk Men" />
+      <brand name="Snuggle" />
+      <brand name="Soft Scrub" />
+      <brand name="Somat" />
+      <brand name="Sparks" />
+      <brand name="Spee" />
+      <brand name="Spree" />
+      <brand name="Strait Styling" />
+      <brand name="Sun" />
+      <brand name="Sunlight" />
+      <brand name="Super Croix" />
+      <brand name="Supreme Keratin" />
+      <brand name="Surf" />
+      <brand name="Syoss" />
+      <brand name="Taft" />
+      <brand name="Tec" />
+      <brand name="Tend" />
+      <brand name="Tolu" />
+      <brand name="Tone" />
+      <brand name="True Beautiful Honest (Tbh)" />
+      <brand name="Vapona" />
+      <brand name="Vernel" />
+      <brand name="Viking" />
+      <brand name="Vim" />
+      <brand name="Viva" />
+      <brand name="Vu" />
+      <brand name="Wc Frisch" />
+      <brand name="Weißer Riese" />
+      <brand name="Wellphoria" />
+      <brand name="Wipp Express" />
+      <brand name="Witte Reuss" />
+      <brand name="Wk Ultra" />
+      <brand name="X.Tra" />
+      <brand name="Xtreme" />
+      <brand name="You Naturellement + Sain" />
+      <brand name="Zen'sect" />
+      <brand name="Zotos Professional" />
+    </company>
+    <company name="Colgate-Palmolive">
+      <companySource ref="haaretz-colgatepalmolive" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="Ajax" />
+      <brand name="Axion" />
+      <brand name="Colgate" />
+      <brand name="Cuddly" />
+      <brand name="Danklorix" />
+      <brand name="elmex" />
+      <brand name="eltaMD Skin Care" />
+      <brand name="Fabuloso" />
+      <brand name="Filorga" />
+      <brand name="Fleecy" />
+      <brand name="Fluffy" />
+      <brand name="hello" />
+      <brand name="Hill's Pet Nutrition" />
+      <brand name="Irish Spring" />
+      <brand name="Lady Speed Stick" />
+      <brand name="meridol" />
+      <brand name="Murphy Oil Soap" />
+      <brand name="Palmolive Dish Soap" />
+      <brand name="Palmolive" />
+      <brand name="PCA SKIN" />
+      <brand name="Pinho Sol" />
+      <brand name="Protex" />
+      <brand name="Sanex" />
+      <brand name="Softlan" />
+      <brand name="Softsoap" />
+      <brand name="Sorriso" />
+      <brand name="Soupline" />
+      <brand name="Speed Stick" />
+      <brand name="Sta-soft" />
+      <brand name="Suavitel" />
+      <brand name="Tahiti" />
+      <brand name="Tom's of Maine" />
+    </company>
+    <company name="S. C. Johnson &amp; Son">
+      <companySource ref="bloomberg-scjohnson" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="All Joy" />
+      <brand name="All Out" />
+      <brand name="Autan" />
+      <brand name="Babyganics" />
+      <brand name="Bayclin" />
+      <brand name="Baygon" />
+      <brand name="Bio Shout" />
+      <brand name="Blem" />
+      <brand name="Bon Ami" />
+      <brand name="Bravo" />
+      <brand name="Caldera" />
+      <brand name="Canard" />
+      <brand name="Ceramicol" />
+      <brand name="Chemotox" />
+      <brand name="Class" />
+      <brand name="Deb" />
+      <brand name="Drano" />
+      <brand name="Duck" />
+      <brand name="Echo" />
+      <brand name="Ecover" />
+      <brand name="Eend" />
+      <brand name="Fantastik" />
+      <brand name="Freedom" />
+      <brand name="Fuyi" />
+      <brand name="Glade" />
+      <brand name="Golden Rooster" />
+      <brand name="Kiwi shoe care" />
+      <brand name="Klaro" />
+      <brand name="Kleen" />
+      <brand name="Lysoform" />
+      <brand name="Method" />
+      <brand name="Mr. Muscle" />
+      <brand name="Mr. Musculo" />
+      <brand name="Mrs. Meyer's Clean Day" />
+      <brand name="Off!" />
+      <brand name="Oust" />
+      <brand name="Pato" />
+      <brand name="Pledge" />
+      <brand name="Pliz" />
+      <brand name="Pride" />
+      <brand name="Pronto" />
+      <brand name="Raid" />
+      <brand name="Ridsect" />
+      <brand name="Roma Coco" />
+      <brand name="Salamander" />
+      <brand name="Saran wrap" />
+      <brand name="Scrubbing Bubbles" />
+      <brand name="Shout" />
+      <brand name="Tana" />
+      <brand name="Windex" />
+      <brand name="Woly" />
+      <brand name="Ziploc" />
+    </company>
+    <company name="Grupo Bimbo">
+      <companySource ref="tntribune-grupobimbo" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="Agua de Piedra" />
+      <brand name="Alfaro's" />
+      <brand name="Ana María" />
+      <brand name="Anzio &amp; Sons" />
+      <brand name="Arnold" />
+      <brand name="Artesano" />
+      <brand name="Ball Park" />
+      <brand name="Barcel" />
+      <brand name="Belle" />
+      <brand name="Ben's" />
+      <brand name="Bimbo" />
+      <brand name="Boboli" />
+      <brand name="Bollycao" />
+      <brand name="Bon Matin" />
+      <brand name="Braun" />
+      <brand name="Brownberry" />
+      <brand name="Cena" />
+      <brand name="Cinnabon" />
+      <brand name="Colombo" />
+      <brand name="Colonial" />
+      <brand name="Croccantissimo" />
+      <brand name="D'Italiano" />
+      <brand name="Del Hogar" />
+      <brand name="Dempster's" />
+      <brand name="Donettes" />
+      <brand name="Bimbo Donuts" />
+      <brand name="El Globo" />
+      <brand name="Entenmann's" />
+      <brand name="Europa" />
+      <brand name="Fargo" />
+      <brand name="Fit" />
+      <brand name="Francisco" />
+      <brand name="Freihofer's" />
+      <brand name="Fuchis" />
+      <brand name="Gabi" />
+      <brand name="Gold Miner" />
+      <brand name="Goldminer" />
+      <brand name="Grace Baking" />
+      <brand name="Guadalupe" />
+      <brand name="Harvest Gold" />
+      <brand name="Holsum" />
+      <brand name="Hostess" />
+      <brand name="Il Genovese" />
+      <brand name="J.J. Nissen" />
+      <brand name="Kitty" />
+      <brand name="La Bella Easo" />
+      <brand name="La Mejor" />
+      <brand name="Lactal" />
+      <brand name="Lagos del Sur" />
+      <brand name="Lalo" />
+      <brand name="Lara" />
+      <brand name="Little Bites" />
+      <brand name="LonchiBon" />
+      <brand name="Los Sorchantes" />
+      <brand name="Lumber Jack" />
+      <brand name="Maestro Cubano" />
+      <brand name="Maiers" />
+      <brand name="Mamá Inés" />
+      <brand name="Manhazitos" />
+      <brand name="Marinela" />
+      <brand name="Martínez" />
+      <brand name="Milpa Real" />
+      <brand name="Modern" />
+      <brand name="Monarca" />
+      <brand name="Mother's" />
+      <brand name="Mr. Brown" />
+      <brand name="Mrs Baird's" />
+      <brand name="Nature's Harvest" />
+      <brand name="New York Bakery Co." />
+      <brand name="Nutrella" />
+      <brand name="Oroweat" />
+      <brand name="Ortiz" />
+      <brand name="Pan Todos" />
+      <brand name="Pancatalán" />
+      <brand name="Pantera Rosa" />
+      <brand name="Pix" />
+      <brand name="Plusvita" />
+      <brand name="POM" />
+      <brand name="Pop Up" />
+      <brand name="Pullman" />
+      <brand name="PYC" />
+      <brand name="Qé" />
+      <brand name="Rainbo" />
+      <brand name="Rap 10" />
+      <brand name="Rapiditas" />
+      <brand name="Rolly's" />
+      <brand name="San Luis Sourdough" />
+      <brand name="Sanissimo" />
+      <brand name="Sara Lee" />
+      <brand name="Silueta" />
+      <brand name="Stonemil" />
+      <brand name="Stroehmann" />
+      <brand name="Suandy" />
+      <brand name="Sun Maid" />
+      <brand name="Supan" />
+      <brand name="Takis" />
+      <brand name="Tenderflake" />
+      <brand name="The Rustik Bakery" />
+      <brand name="Thins" />
+      <brand name="Thomas" />
+      <brand name="Tía Rosa" />
+      <brand name="Tigretón" />
+      <brand name="Tulipán" />
+      <brand name="Vachon" />
+      <brand name="Valente" />
+      <brand name="Vel Pitar" />
+      <brand name="Villaggio" />
+      <brand name="Vital" />
+      <brand name="Vital" />
+      <brand name="Weikis" />
+      <brand name="Wholesome" />
+      <brand name="Wonder" />
+    </company>
 
-    <!--
+  <!--
     <company name="">
       <companySource ref="" />
-      <companyTag ref="" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="" />
     </company>
-    -->
+  -->
   </companies>
 
   <sources>
+  <!--
+    <source id="" url=""></source>
+  -->
+    <source id="tntribune-grupobimbo" url="https://tntribune.com/global-baking-firm-grupo-bimbo-invests-in-israeli-startup/">tntribune.com</source>
+    <source id="bloomberg-scjohnson" url="https://www.bloomberg.com/profile/company/6993281Z:IT">bloomberg.com</source>
+    <source id="haaretz-colgatepalmolive" url="https://www.haaretz.com/israel-news/business/2020-01-09/ty-article/.premium/israeli-importer-worked-with-colgate-palmolive-to-keep-monopoly-investigation-say/0000017f-e777-df5f-a17f-ffff2a130000">haaretz.com</source>
+    <source id="henkel-israel" url="https://www.henkel.com/press-and-media/press-releases-and-kits/2021-06-24-henkel-invests-in-technology-start-up-iotech-1243758">henkel.com</source>
+    <source id="reuters-brightfood" url="https://www.reuters.com/article/us-bright-food-grp-tnuva-apax-idUKBREA4L01Q20140522/">reuters.com</source>
+    <source id="jewishcincinnati-80acres" url="https://blog.jewishcincinnati.org/dm1-hyh-how-you-help-how-an-israeli-transplant-found-the-perfect-mix-of-career-and-passion/"></source>
     <source id="abcnews-starbucks" url="https://abcnews.go.com/Business/companies-starbucks-mcdonalds-face-controversy-amid-israel-hamas/story?id=104219615">abcnews.go.com</source>
     <source id="aclu-labor-report" url="https://www.aclu.org/wp-content/uploads/legal-documents/2022-06-15-captivelaborresearchreport.pdf">aclu.org</source>
     <source id="adage-billboard" url="https://adage.com/article/digital-marketing-ad-tech-news/israel-hamas-war-how-brands-ad-tech-firms-agencies-are-responding/2521656">adage.com</source>
@@ -2429,9 +2850,16 @@
     <source id="sunnahonline-pg" url="https://sunnahonline.com/library/contemporary-issues/41-palestine-and-israel/748-boycott-israel-who-and-why#h5-6-procter-amp-gamble">sunnahonline.com</source>
     <source id="timesofisrael-unilever" url="https://www.timesofisrael.com/liveblog_entry/unilever-chief-says-company-fully-committed-to-israel/">timesofisrael.com</source>
     <source id="wwd-victoriassecret" url="https://wwd.com/feature/victorias-secret-israel-stores-1234687243/">wwd.com</source>
+    <source id="businessinsider-adobe" url="https://www.businessinsider.com/adobe-stock-ai-generated-images-israel-hamas-war-2023-11?op=1"></source>
+    <source id="haaretz-ahava" url="https://www.haaretz.com/israel-news/business/2016-04-07/ty-article/.premium/ahava-bought-by-chinese-conglomerate-76-million/0000017f-f40a-d887-a7ff-fcee9ef80000">haaretz.com</source>
+    <source id="ebay-israel" url="https://ebay.co.il/360/">eBay Israel</source>
   </sources>
 
   <tags>
+    <!--
+    <tag id=""></tag>
+    -->
+    <tag id="IdfStaff">IDF Staff</tag>
     <tag id="Imperialism">Imperialism</tag>
     <tag id="IsraeliFacilities">Israeli Facilities</tag>
     <tag id="LaborPractices">Labor Practices</tag>
@@ -2440,5 +2868,6 @@
     <tag id="PriorityBoycott">Priority Boycott</tag>
     <tag id="PrisonLabor">Prison Labor</tag>
     <tag id="SupportsIsrael">Supports Israel</tag>
+    <tag id="IsraeliPropaganda">Israeli Propaganda</tag>
   </tags>
 </root>
