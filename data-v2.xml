@@ -1,5 +1,5 @@
 <root>
-  <updated id="lastupdate" date="Dec 21, 2023">Major updates, dozens of brands added</updated>
+  <updated id="lastupdate" date="Dec 31, 2023">Added Honeywell, Bath &amp; Body Works, Tyson, and Triarc, among others</updated>
   <companies>
     <company name="Hewlett Packard Enterprise/HPE">
       <companySource ref="bds-what-to-boycott" />
@@ -122,8 +122,10 @@
     <company name="McDonald's">
       <companySource ref="ihrc-list" />
       <companySource ref="businessinsider-mcdonalds" />
+      <companySource ref="truthout-prisonlabor" />
       <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
+      <companyTag ref="PrisonLabor" />
     </company>
     <company name="Starbucks">
       <companySource ref="ihrc-list" />
@@ -374,6 +376,7 @@
     </company>
     <company name="Puma Group">
       <companySource ref="bds-puma" />
+      <companyTag ref="PriorityBoycott" />
       <companyTag ref="SupportsIsrael" />
       <brand name="Cobra Golf" />
       <brand name="Puma" />
@@ -862,7 +865,9 @@
     <company name="Nestlé">
       <companySource ref="ihrc-list" />
       <companySource ref="reuters-osem" />
+      <companySource ref="lakotalaw-nestle" />
       <companyTag ref="IsraeliFacilities" />
+      <companyTag ref="Imperialism" />
       <brand name="8Cubes" />
       <brand name="Abuelita" />
       <brand name="Acqua Panna" />
@@ -1565,7 +1570,9 @@
     </company>
     <company name="3G Capital Inc.">
       <companySource ref="ihrc-list" />
+      <companySource ref="truthout-prisonlabor" />
       <companyTag ref="SupportsIsrael" />
+      <companyTag ref="PrisonLabor" />
       <brand name="ABC Heinz Indonesia" />
       <brand name="Aquila Beer" />
       <brand name="Beck's" />
@@ -1863,9 +1870,11 @@
     </company>
     <company name="Yum! Brands">
       <companySource ref="ihrc-list" />
+      <companySource ref="truthout-prisonlabor" />
       <companyTag ref="SupportsIsrael" />
+      <companyTag ref="PrisonLabor" />
       <brand name="The Habit Burger Grill" />
-      <brand name="KFC" />
+      <brand name="KFC/Kentucky Fried Chicken" />
       <brand name="Pizza Hut" />
       <brand name="Taco Bell" />
     </company>
@@ -2761,7 +2770,8 @@
       <brand name="Tenderflake" />
       <brand name="The Rustik Bakery" />
       <brand name="Thins" />
-      <brand name="Thomas" />
+      <brand name="Thomas bagels" />
+      <brand name="Thomas breads" />
       <brand name="Tía Rosa" />
       <brand name="Tigretón" />
       <brand name="Tulipán" />
@@ -2774,6 +2784,70 @@
       <brand name="Weikis" />
       <brand name="Wholesome" />
       <brand name="Wonder" />
+    </company>
+    <company name="Honeywell International Inc.">
+      <companySource ref="calcalistech-honeywell" />
+      <companySource ref="prnewswire-honeywell" />
+      <companyTag ref="IsraeliFacilities" />
+      <companyTag ref="IsraeliMilitary" />
+      <brand name="Honeywell Home" />
+      <brand name="Resideo" />
+    </company>
+    <company name="Bath &amp; Body Works">
+      <companySource ref="jpost-bathandbodyworks" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="" />
+    </company>
+    <company name="Tyson Foods, Inc.">
+      <companySource ref="timesofisrael-futuremeat" />
+      <companyTag ref="IsraeliFacilities" />
+      <brand name="Advance Pierre Foods" />
+      <brand name="Aidells" />
+      <brand name="Ball Park Brand" />
+      <brand name="Barber Foods" />
+      <brand name="Big AZ" />
+      <brand name="Bosco's" />
+      <brand name="Bruss Company" />
+      <brand name="Chairman's Reserve Beef" />
+      <brand name="Fast Fixin" />
+      <brand name="Gallo Salame" />
+      <brand name="Hillshire Farm" />
+      <brand name="Hillshire Snacking" />
+      <brand name="IBP" />
+      <brand name="Jimmy Dean" />
+      <brand name="Lady Aster" />
+      <brand name="Landshire" />
+      <brand name="Like Moms" />
+      <brand name="Mexican Original" />
+      <brand name="Nature Raised Farms" />
+      <brand name="Open Prairie" />
+      <brand name="Pierre" />
+      <brand name="Sara Lee Meats" />
+      <brand name="Star Ranch Angus" />
+      <brand name="State Fair" />
+      <brand name="Tyson foods" />
+      <brand name="Tyson Tastemakers" />
+      <brand name="Wright Brand" />
+      <brand name="Wunderbar" />
+    </company>
+    <company name="Triarc Companies, Inc.">
+      <companySource ref="truthout-prisonlabor" />
+      <companyTag ref="PrisonLabor" />
+      <brand name="Arby's" />
+      <brand name="Mistic" />
+      <brand name="Royal Crown Cola" />
+      <brand name="Stewart's" />
+      <brand name="Wendy's" />
+    </company>
+    <company name="Cast Products, Inc.">
+      <companySource ref="truthout-prisonlabor" />
+      <companyTag ref="PrisonLabor" />
+    </company>
+    <company name="Southeastern Meats, Inc.">
+      <companySource ref="truthout-prisonlabor" />
+      <companyTag ref="PrisonLabor" />
+      <brand name="Southeastern Pick 5 products" />
+      <brand name="Southeastern Vegetables" />
     </company>
 
   <!--
@@ -2789,12 +2863,6 @@
   <!--
     <source id="" url=""></source>
   -->
-    <source id="tntribune-grupobimbo" url="https://tntribune.com/global-baking-firm-grupo-bimbo-invests-in-israeli-startup/">tntribune.com</source>
-    <source id="bloomberg-scjohnson" url="https://www.bloomberg.com/profile/company/6993281Z:IT">bloomberg.com</source>
-    <source id="haaretz-colgatepalmolive" url="https://www.haaretz.com/israel-news/business/2020-01-09/ty-article/.premium/israeli-importer-worked-with-colgate-palmolive-to-keep-monopoly-investigation-say/0000017f-e777-df5f-a17f-ffff2a130000">haaretz.com</source>
-    <source id="henkel-israel" url="https://www.henkel.com/press-and-media/press-releases-and-kits/2021-06-24-henkel-invests-in-technology-start-up-iotech-1243758">henkel.com</source>
-    <source id="reuters-brightfood" url="https://www.reuters.com/article/us-bright-food-grp-tnuva-apax-idUKBREA4L01Q20140522/">reuters.com</source>
-    <source id="jewishcincinnati-80acres" url="https://blog.jewishcincinnati.org/dm1-hyh-how-you-help-how-an-israeli-transplant-found-the-perfect-mix-of-career-and-passion/"></source>
     <source id="abcnews-starbucks" url="https://abcnews.go.com/Business/companies-starbucks-mcdonalds-face-controversy-amid-israel-hamas/story?id=104219615">abcnews.go.com</source>
     <source id="aclu-labor-report" url="https://www.aclu.org/wp-content/uploads/legal-documents/2022-06-15-captivelaborresearchreport.pdf">aclu.org</source>
     <source id="adage-billboard" url="https://adage.com/article/digital-marketing-ad-tech-news/israel-hamas-war-how-brands-ad-tech-firms-agencies-are-responding/2521656">adage.com</source>
@@ -2806,22 +2874,29 @@
     <source id="baby2baby-israel" url="https://www.linkedin.com/posts/baby2baby_baby2baby-has-over-half-a-million-emergency-activity-7121249732563275776-MOVn">baby2baby</source>
     <source id="bds-puma" url="https://bdsmovement.net/boycott-puma">bdsmovement.net</source>
     <source id="bds-what-to-boycott" url="https://bdsmovement.net/get-involved/what-to-boycott">bdsmovement.net</source>
+    <source id="bloomberg-scjohnson" url="https://www.bloomberg.com/profile/company/6993281Z:IT">bloomberg.com</source>
     <source id="blushing-giraffe" url="http://www.theblushinggiraffe.com/">theblushinggiraffe.com</source>
     <source id="bnn-donations" url="https://bnn.network/breaking-news/social/global-donations-from-corporations-like-disney-chanel-fox-to-israel-spark-controversy/">bnn.network</source>
     <source id="bnn-kardashian" url="https://bnn.network/arts/kardashian-family-voices-support-for-israel-amidst-conflict/">bnn.network</source>
+    <source id="businessinsider-adobe" url="https://www.businessinsider.com/adobe-stock-ai-generated-images-israel-hamas-war-2023-11?op=1"></source>
     <source id="businessinsider-amazon" url="https://www.businessinsider.com/amazon-owns-these-brands-list-2018-7?op=1">businessinsider.com</source>
     <source id="businessinsider-mcdonalds" url="https://www.businessinsider.com/mcdonalds-donating-thousands-meals-idf-israeli-citizens-hamas-attacks-2023?op=1">businessinsider.com</source>
+    <source id="calcalistech-honeywell" url="https://www.calcalistech.com/ctechnews/article/sy4jfcty3">calcalistech.com</source>
     <source id="chevron-israel" url="https://israel.chevron.com/en/about">israel.chevron.com</source>
     <source id="cocacola-israel" url="https://blogs.timesofisrael.com/coca-colas-new-bridge-to-israel/">Coca-Cola’s New "Bridge" to Israel</source>
     <source id="cpw-generalmills" url="https://www.nestle-cereals.com/global/our-promises/about-cpw">Cereal Partners Worldwide </source>
     <source id="disney-donate" url="https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/">thewaltdisneycompany.com</source>
     <source id="dole-hawaii" url="https://www.ksbe.edu/assets/pdfs/The_Overthrow_of_the_Hawaiian_Monarchy_PDF.pdf">ksbe.edu</source>
+    <source id="ebay-israel" url="https://ebay.co.il/360/">eBay Israel</source>
     <source id="ethicalconsumer-amazon" url="https://www.ethicalconsumer.org/ethicalcampaigns/boycott-amazon">ethicalconsumer.org</source>
     <source id="foodprocessing-israel" url="https://www.foodprocessing-technology.com/news/mondelez-internationals-snackfutures-invests-in-food-tech-startup-torr/">foodprocessing-technology.com</source>
     <source id="ford-israel" url="https://ford-israel.co.il/">ford-israel.co.il</source>
     <source id="greenleft-loreal" url="https://www.greenleft.org.au/content/boycott-loreal-because-palestine-worth-it">greenleft.org.au</source>
     <source id="gsk-website" url="https://www.gsk.com">GSK.com</source>
+    <source id="haaretz-ahava" url="https://www.haaretz.com/israel-news/business/2016-04-07/ty-article/.premium/ahava-bought-by-chinese-conglomerate-76-million/0000017f-f40a-d887-a7ff-fcee9ef80000">haaretz.com</source>
+    <source id="haaretz-colgatepalmolive" url="https://www.haaretz.com/israel-news/business/2020-01-09/ty-article/.premium/israeli-importer-worked-with-colgate-palmolive-to-keep-monopoly-investigation-say/0000017f-e777-df5f-a17f-ffff2a130000">haaretz.com</source>
     <source id="haleon-website" url="https://www.haleon.com">haleon.com</source>
+    <source id="henkel-israel" url="https://www.henkel.com/press-and-media/press-releases-and-kits/2021-06-24-henkel-invests-in-technology-start-up-iotech-1243758">henkel.com</source>
     <source id="heritagefl-walmart" url="https://www.heritagefl.com/story/2023/11/10/news/walmart-stands-with-israel/19050.html">WalMart stands with Israel</source>
     <source id="hilfiger-twitter" url="https://twitter.com/MiddleEastMnt/status/1711664103637287032">@MiddleEastMnt</source>
     <source id="ibm-israel" url="https://www.ibm.com/planetwide/il/">ibm.com</source>
@@ -2830,9 +2905,12 @@
     <source id="investopedia-amazon" url="https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp">6 Companies Owned by Amazon</source>
     <source id="islamicinformation-brands" url="https://theislamicinformation.com/news/list-of-brands-supporting-israel/#comment-5472">theislamicinformation.com</source>
     <source id="israelhayom-hardees" url="https://www.israelhayom.com/2021/12/03/hardees-promises-to-give-israelis-something-to-chew-on/">israelhayom.com</source>
+    <source id="jewishcincinnati-80acres" url="https://blog.jewishcincinnati.org/dm1-hyh-how-you-help-how-an-israeli-transplant-found-the-perfect-mix-of-career-and-passion/"></source>
     <source id="jnj-israel" url="https://www.jnjcareers.co.il/en">jnjcareers.co.il</source>
     <source id="jns-letter" url="https://www.jns.org/hollywood-celebs-urge-biden-to-ensure-release-of-israeli-hostages/">jns.org</source>
+    <source id="jpost-bathandbodyworks" url="https://www.jpost.com/business-and-innovation/article-734477">jpost.com</source>
     <source id="kimberlyclark-israel" url="https://www.kimberly-clark.co.il/il/contact.aspx">kimberly-clark.co.il</source>
+    <source id="lakotalaw-nestle" url="https://lakotalaw.org/news/2018-06-13/the-case-against-nestle">Lakota Law Project</source>
     <source id="loreal-israel" url="https://www.loreal.com/en/israel/">loreal.com</source>
     <source id="mars-israel" url="https://www.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners">mars.com</source>
     <source id="mayniaga-drpepper" url="https://www.mayniaga.com/dr-pepper-israel-support-what-you-need-to-know/"></source>
@@ -2842,17 +2920,19 @@
     <source id="ohchr-israel" url="https://www.ohchr.org/en/press-releases/2020/02/un-rights-office-issues-report-business-activities-related-settlements?LangID=E&amp;NewsID=25542">ohchr.org</source>
     <source id="pbs-chanel" url="https://www.pbs.org/wgbh/roadshow/stories/articles/2022/1/3/coco-chanel-fashion-designer-and-nazi-informant">pbs.org</source>
     <source id="pringles-israel" url="https://www.pringles.com/il/home.html">pringles.com/il</source>
+    <source id="prnewswire-honeywell" url="https://www.prnewswire.com/news-releases/honeywell-and-israel-aerospace-industries-to-demonstrate-new-sense-and-avoid-capabilities-for-unmanned-aerial-systems-300296490.html">prnewswire.com</source>
+    <source id="reuters-brightfood" url="https://www.reuters.com/article/us-bright-food-grp-tnuva-apax-idUKBREA4L01Q20140522/">reuters.com</source>
     <source id="reuters-osem" url="https://www.reuters.com/article/us-osem-investments-m-a-nestle-idUSKCN0VD0Y5/">reuters.com</source>
     <source id="revlon-israel" url="https://www.instagram.com/revlon_israel/">@revlon_israel</source>
     <source id="schweppes-israel" url="https://www.schweppes.co.il/contact/">schweppes.co.il</source>
     <source id="skims-instagram" url="https://www.instagram.com/p/CyRnmHgvhgv/?img_index=1"> @kimkardashian</source>
     <source id="straussgroup-israel" url="https://www.strauss-group.com/location/strauss_israel/">strauss-group.com</source>
     <source id="sunnahonline-pg" url="https://sunnahonline.com/library/contemporary-issues/41-palestine-and-israel/748-boycott-israel-who-and-why#h5-6-procter-amp-gamble">sunnahonline.com</source>
+    <source id="timesofisrael-futuremeat" url="https://www.timesofisrael.com/israels-future-meat-raises-347m-largest-investment-for-cultured-meat-firm-to-date/">timesofisrael.com</source>
     <source id="timesofisrael-unilever" url="https://www.timesofisrael.com/liveblog_entry/unilever-chief-says-company-fully-committed-to-israel/">timesofisrael.com</source>
+    <source id="tntribune-grupobimbo" url="https://tntribune.com/global-baking-firm-grupo-bimbo-invests-in-israeli-startup/">tntribune.com</source>
+    <source id="truthout-prisonlabor" url="https://truthout.org/articles/mcdonalds-kfc-burger-king-and-wendys-rely-on-alabama-prison-slavery/">truthout.org</source>
     <source id="wwd-victoriassecret" url="https://wwd.com/feature/victorias-secret-israel-stores-1234687243/">wwd.com</source>
-    <source id="businessinsider-adobe" url="https://www.businessinsider.com/adobe-stock-ai-generated-images-israel-hamas-war-2023-11?op=1"></source>
-    <source id="haaretz-ahava" url="https://www.haaretz.com/israel-news/business/2016-04-07/ty-article/.premium/ahava-bought-by-chinese-conglomerate-76-million/0000017f-f40a-d887-a7ff-fcee9ef80000">haaretz.com</source>
-    <source id="ebay-israel" url="https://ebay.co.il/360/">eBay Israel</source>
   </sources>
 
   <tags>
@@ -2862,12 +2942,13 @@
     <tag id="IdfStaff">IDF Staff</tag>
     <tag id="Imperialism">Imperialism</tag>
     <tag id="IsraeliFacilities">Israeli Facilities</tag>
+    <tag id="IsraeliMilitary">Israeli Military</tag>
+    <tag id="IsraeliPropaganda">Israeli Propaganda</tag>
     <tag id="LaborPractices">Labor Practices</tag>
     <tag id="NaziMoney">Nazi Money</tag>
     <tag id="NestlePartner">Nestlé Partner</tag>
     <tag id="PriorityBoycott">Priority Boycott</tag>
     <tag id="PrisonLabor">Prison Labor</tag>
     <tag id="SupportsIsrael">Supports Israel</tag>
-    <tag id="IsraeliPropaganda">Israeli Propaganda</tag>
   </tags>
 </root>
